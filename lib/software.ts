@@ -1,0 +1,6 @@
+export const softwareGroups=[
+['Microsoft Word','Microsoft Excel','Microsoft PowerPoint','Microsoft Outlook','OneNote','Microsoft Teams','OneDrive','Google Chrome','Mozilla Firefox','Microsoft Edge','Opera','Brave','Vivaldi','Thunderbird','Zoom','Slack','Discord','Telegram','WhatsApp','Signal','Notion','Obsidian','Evernote','Todoist','Trello'],
+['Adobe Photoshop','Adobe Illustrator','Adobe InDesign','Adobe Lightroom','Adobe Premiere Pro','Adobe After Effects','Adobe Acrobat','Adobe Audition','Figma','Canva','Affinity Photo','Affinity Designer','CorelDRAW','GIMP','Inkscape','Krita','Blender','SketchUp','AutoCAD','Revit','Fusion 360','SolidWorks','FreeCAD','Rhino','Cinema 4D'],
+['Visual Studio Code','Visual Studio','IntelliJ IDEA','PyCharm','WebStorm','Android Studio','Xcode','Sublime Text','Notepad++','Vim','Emacs','Git','GitHub Desktop','Docker Desktop','Postman','Insomnia','DBeaver','MySQL Workbench','pgAdmin','MongoDB Compass','RStudio','JupyterLab','Anaconda','MATLAB','Unity'],
+['VLC','OBS Studio','DaVinci Resolve','Audacity','HandBrake','FFmpeg','7-Zip','WinRAR','PeaZip','Everything','PowerToys','ShareX','Greenshot','PuTTY','WinSCP','FileZilla','AnyDesk','UltraViewer','TeamViewer','RustDesk','Bitwarden','KeePassXC','Malwarebytes','ESET NOD32','Windows Security']
+] as const;

@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {rows,languages,translate} from '../lib/translations.ts';import {softwareGroups} from '../lib/software.ts';
+test('all translations contain all five languages and no duplicate source keys',()=>{assert.equal(new Set(rows.map(r=>r[0])).size,rows.length);for(const row of rows){assert.equal(row.length,5);for(const text of row)assert.ok(text.trim())}});
+test('each language translates core booking text and example prefixes',()=>{for(const language of languages){const text=translate('Үйлчилгээ захиалах',language);assert.ok(text);if(language!=='mn')assert.notEqual(text,'Үйлчилгээ захиалах');assert.ok(translate('Жишээ: Windows 11 дээр Microsoft Office суулгаж, тохируулах хэрэгтэй.',language).includes('Windows 11'))}assert.equal(translate('AnyDesk','ko'),'AnyDesk');assert.equal(translate('  Үйлчилгээ  ','en'),'  Services  ')});
+test('marquee contains exactly 100 distinct software names',()=>{const names=softwareGroups.flat();assert.equal(names.length,100);assert.equal(new Set(names).size,100);assert.equal(softwareGroups.length,4)});
