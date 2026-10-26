@@ -1,0 +1,12 @@
+.git
+node_modules
+.next
+.vinext
+.wrangler
+.sites-runtime
+.railway-app
+.env*
+.dev.vars*
+dist
+*.tar.gz
+*.tsbuildinfo
