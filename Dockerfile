@@ -12,5 +12,8 @@ ENV NODE_ENV=production NEXT_TELEMETRY_DISABLED=1 HOSTNAME=0.0.0.0 PORT=3000 SQL
 COPY --from=build /source/.railway-app/.next/standalone ./
 COPY --from=build /source/.railway-app/.next/static ./.next/static
 COPY --from=build /source/.railway-app/public ./public
+COPY --from=build /source/.railway-app/start-railway.mjs ./
+COPY --from=build /source/.railway-app/lib/chat-store.mjs ./lib/chat-store.mjs
+COPY --from=build /source/.railway-app/lib/telegram-bridge.mjs ./lib/telegram-bridge.mjs
 EXPOSE 3000
-CMD ["node","server.js"]
+CMD ["node","start-railway.mjs"]
