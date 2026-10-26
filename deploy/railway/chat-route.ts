@@ -9,7 +9,7 @@ export async function GET(r:NextRequest){try{
  return json({configured:!!(process.env.TELEGRAM_BOT_TOKEN&&process.env.TELEGRAM_CHAT_ID),connected:Date.now()-Number(store.getState('heartbeat')||0)<90000,messages:session?store.messages(session.id,after):[],reference:session?.id.slice(0,8)||null});
 }catch{return json({error:'Чат ачаалах боломжгүй байна.'},503)}}
 export async function POST(r:NextRequest){
- const allowed=[process.env.SITE_URL,process.env.RAILWAY_PUBLIC_DOMAIN?'https://'+process.env.RAILWAY_PUBLIC_DOMAIN:null];if(!process.env.RAILWAY_ENVIRONMENT_ID)allowed.push(new URL(r.url).origin);if(!allowed.includes(r.headers.get('origin')))return json({error:'Эрхгүй хүсэлт.'},403);
+ const allowed=[...(process.env.ALLOWED_ORIGINS||'').split(',').map(value=>value.trim()).filter(Boolean),process.env.SITE_URL,process.env.RAILWAY_PUBLIC_DOMAIN?'https://'+process.env.RAILWAY_PUBLIC_DOMAIN:null];if(!process.env.RAILWAY_ENVIRONMENT_ID)allowed.push(new URL(r.url).origin);if(!allowed.includes(r.headers.get('origin')))return json({error:'Эрхгүй хүсэлт.'},403);
  if(!process.env.TELEGRAM_BOT_TOKEN||!process.env.TELEGRAM_CHAT_ID)return json({error:'Шууд тусламжийн холболт тохируулагдаж байна.'},503);
  let body;try{const raw=await r.text();if(raw.length>10000)return json({error:'Мессеж хэт урт байна.'},413);body=JSON.parse(raw)}catch{return json({error:'Мессежийн мэдээлэл буруу байна.'},400)}
  if(!body||typeof body.text!=='string'||!body.text.trim()||body.text.trim().length>2000||typeof body.clientId!=='string'||!/^[a-f0-9-]{36}$/i.test(body.clientId))return json({error:'1–2000 тэмдэгттэй мессеж бичнэ үү.'},400);

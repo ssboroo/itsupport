@@ -6,6 +6,7 @@ Railway settings:
 - Port: 3000; health check: `/api/config`.
 - Attach a persistent volume at `/data`; SQLite runs in WAL mode at `/data/orders.sqlite`.
 - Run one replica with this SQLite volume.
+- `ALLOWED_ORIGINS` can list additional trusted HTTPS origins, separated by commas (for example the custom domain and the Railway fallback domain).
 - Set `SITE_URL` to the public HTTPS origin (no trailing slash) for CSRF checks.
 - Set `ADMIN_USERNAME` and a strong `ADMIN_PASSWORD`. `/admin` uses HTTP Basic authentication over HTTPS; the same credentials protect order reads and updates. Optional `ADMIN_EMAIL` defaults to `admin@rainy.studio`.
 - `BOOKING_ID_SECRET` salts anonymous booking rate-limit identities. ChatGPT identity headers are never trusted on this host. Visitors can leave requests without an account.
