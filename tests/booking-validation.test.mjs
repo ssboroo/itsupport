@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {validateBooking,isValidPhone,normalizePhone,SERVICE_NAMES} from '../lib/booking-validation.ts';
+const valid={phone:'99112233',service:'Программ суулгах',description:'Office суулгах хэрэгтэй.',tool:'AnyDesk',consent:true};
+test('all services accept nameless orders and optional time',()=>{for(const service of SERVICE_NAMES){const result=validateBooking({...valid,service});assert.equal(result.ok,true);assert.equal(result.data.time,'Боломжтой үед холбогдох');assert.ok(!('name' in result.data))}});
+test('supports international formatted phone numbers',()=>{for(const phone of ['+976 9022 0101','+1 (415) 555-0123','+82 10 1234 5678'])assert.equal(isValidPhone(phone),true);assert.equal(normalizePhone('+976 9022-0101'),'+97690220101');for(const phone of ['abc','123','++97690220101','+012345678','991122334455667788'])assert.equal(isValidPhone(phone),false)});
+test('rejects malformed body, fake consent and unknown service',()=>{for(const body of [null,[],{...valid,consent:'on'},{...valid,service:'unknown'},{...valid,description:'  '},{...valid,description:'x'.repeat(2001)},{...valid,tool:'bad'},{...valid,time:123}])assert.equal(validateBooking(body).ok,false)});
