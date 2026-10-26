@@ -1,0 +1,531 @@
+Brand logos sourced from Simple Icons 16.36.0 and 11.15.0 (CC0). Brand names and marks belong to their respective owners. No affiliation is implied.
+https://simpleicons.org
+
+Microsoft Word — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Microsoft Excel — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Microsoft PowerPoint — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Microsoft Outlook — https://developer.microsoft.com/en-us/outlook/docs
+Microsoft Teams — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Microsoft OneDrive — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Microsoft Edge — https://support.microsoft.com/en-us/help/17171/microsoft-edge-get-to-know
+Microsoft OneNote — https://developer.microsoft.com/en-us/fluentui#/styles/web/colors/products
+Google Chrome — https://www.google.com/chrome
+Firefox — https://mozilla.design/firefox/logos-usage/
+Opera — https://brand.opera.com/1472-2/opera-logos/
+Brave — https://brave.com/brave-branding-assets
+Vivaldi — https://vivaldi.com/press
+Thunderbird — https://design.thunderbird.net/resources/logo
+Zoom — https://brand.zoom.us/media-library/
+Slack — https://slack.com/brand-guidelines
+Discord — https://discord.com/branding
+Telegram — https://telegram.org/tour/screenshots
+WhatsApp — https://about.meta.com/brand/resources/whatsapp/whatsapp-brand
+Signal — https://signal.org/brand
+Notion — https://www.notion.so
+Obsidian — https://obsidian.md
+Evernote — https://evernote.com/about-us
+Todoist — https://doist.com/press
+Trello — https://atlassian.design/resources/logo-library
+Adobe Photoshop — https://www.adobe.com/creativecloud.html
+Adobe Illustrator — https://www.adobe.com/creativecloud.html
+Adobe InDesign — https://www.adobe.com/creativecloud.html
+Adobe Lightroom — https://www.adobe.com/creativecloud.html
+Adobe Premiere Pro — https://www.adobe.com/creativecloud.html
+Adobe After Effects — https://www.adobe.com/creativecloud.html
+Adobe Audition — https://www.adobe.com/creativecloud.html
+Figma — https://www.figma.com/using-the-figma-brand/
+Canva — https://www.canva.com
+Affinity Photo — https://affinity.serif.com/photo
+Affinity Designer — https://affinity.serif.com/designer
+CorelDRAW — https://www.coreldraw.com/en/learn/webinars/ebook-embroidery
+GIMP — https://gitlab.gnome.org/GNOME/gimp-data/-/blob/e62f1905dcef7ec831ea6c052bb035eb37eaa69e/images/logo/gimp-logo-unicolor.svg
+Inkscape — https://inkscape.org/gallery/=inkscape-branding/inkscape-brand-assets/
+Krita — https://krita.org/en/about/press/
+Blender — https://www.blender.org/about/logo
+SketchUp — https://www.sketchup.com
+Autodesk — https://brand.autodesk.com/brand-system/logo
+AutoCAD — https://www.autodesk.com/blogs/autocad
+FreeCAD — https://fpa.freecad.org/handbook/process/logo.html
+Rhinoceros — https://github.com/mcneel/compute.rhino3d/blob/2204d998ff0397a1c6a18dd2312a96508ad48bdb/README.md
+Cinema 4D — https://www.maxon.net/en/about-maxon/branding
+Visual Studio Code — https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg
+Visual Studio — https://visualstudio.microsoft.com
+IntelliJ IDEA — https://www.jetbrains.com/idea/
+PyCharm — https://www.jetbrains.com/company/brand/logos/
+WebStorm — https://www.jetbrains.com/company/brand/logos
+Android Studio — https://developer.android.com/studio
+Xcode — https://developer.apple.com/develop
+Sublime Text — https://www.sublimetext.com
+Notepad++ — https://github.com/notepad-plus-plus/notepad-plus-plus/blob/1f2c63cce173e3e1dc5922637c81a851693e2856/PowerEditor/misc/chameleon/chameleon-pencil.eps
+Vim — https://commons.wikimedia.org/wiki/File:Vimlogo.svg
+GNU Emacs — https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons/hicolor/scalable/apps/emacs.svg
+Git — https://git-scm.com/community/logos
+GitHub — https://github.com/logos
+Docker — https://www.docker.com/company/newsroom/media-resources
+Postman — https://www.getpostman.com/resources/media-assets/
+Insomnia — https://insomnia.rest
+DBeaver — https://dbeaver.com
+MySQL — https://www.mysql.com/about/legal/logos.html
+PostgreSQL — https://wiki.postgresql.org/wiki/Logo
+MongoDB — https://www.mongodb.com/pressroom
+RStudio — https://www.rstudio.com/about/logos/
+Jupyter — https://github.com/jupyter/design/blob/80716ee75dd7b2a6ec6abcd89922d020483589b1/logos/Logo%20Mark/logomark-whitebody-whitemoons/logomark-whitebody-whitemoons.svg
+Anaconda — https://www.anaconda.com
+Unity — https://brand.unity.com
+OBS Studio — https://commons.wikimedia.org/wiki/File:OBS.svg
+DaVinci Resolve — https://www.blackmagicdesign.com/media/images/davinci-resolve-logo-square
+Audacity — https://github.com/audacity/audacity/blob/c818449c69193f5311b430fbf600d8d6cbe49047/images/audacity.svg
+FFmpeg — https://commons.wikimedia.org/wiki/File:FFmpeg_Logo_new.svg
+7Zip — https://commons.wikimedia.org/wiki/File:7ziplogo.svg
+ShareX — https://getsharex.com/brand-assets
+FileZilla — https://commons.wikimedia.org/wiki/File:FileZilla_logo.svg
+AnyDesk — https://anydesk.com
+TeamViewer — https://www.teamviewer.com
+RustDesk — https://github.com/rustdesk/rustdesk/blob/80857c22c9ee1578b4329aec3250c3e6f285a7d2/res/logo.svg
+Bitwarden — https://bitwarden.com/brand
+KeePassXC — https://github.com/keepassxreboot/keepassxc/tree/3fdafc6d25e85050976e0cc645db579086db3f45
+Malwarebytes — https://www.malwarebytes.com
+Windows — https://commons.wikimedia.org/wiki/File:Windows_logo_-_2021_(Black).svg
+LibreOffice — https://wiki.documentfoundation.org/Marketing/Branding
+ONLYOFFICE — https://www.onlyoffice.com/en/press-downloads.aspx
+Linux — https://www.linuxfoundation.org/the-linux-mark/
+Ubuntu — https://design.ubuntu.com/resources
+Debian — https://www.debian.org/logos
+Fedora — https://docs.fedoraproject.org/en-US/project/brand/
+Arch Linux — https://www.archlinux.org/art
+Android — https://partnermarketinghub.withgoogle.com/brands/android/visual-identity/visual-identity/logo-lock-ups
+Apple — https://www.apple.com
+Spotify — https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo
+Steam — https://partner.steamgames.com/doc/marketing/branding
+Epic Games — https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines
+GOG.com — https://www.cdprojekt.com/en/media/logotypes/
+Dropbox — https://www.dropbox.com/branding
+Google Drive — https://developers.google.com/drive/web/branding
+Google Docs — https://www.google.com/docs/about
+Google Sheets — https://sheets.google.com
+Google Slides — https://slides.google.com
+Google Gemini — https://gemini.google.com
+OpenAI — https://openai.com
+Anthropic — https://www.anthropic.com
+Perplexity — https://www.perplexity.ai
+n8n — https://n8n.io/press
+Zapier — https://www.figma.com/file/NQFxTCE5pGR3dHZt0DkOyy/Zapier-Brand-Guidelines-%5BExternal%5D?type=design&node-id=101-9701&mode=design
+WordPress — https://wordpress.org/about/logos
+WooCommerce — https://woocommerce.com/style-guide
+Shopify — https://www.shopify.com/brand-assets
+Webflow — https://brand-at.webflow.io/resources#logos
+Framer — https://framer.com
+Vercel — https://vercel.com/geist/brands
+Netlify — https://www.netlify.com/press/
+Cloudflare — https://www.cloudflare.com/logo/
+.ENV — https://github.com/motdotla/dotenv/blob/40e75440337d1de2345dc8326d6108331f583fd8/dotenv.svg
+.NET — https://github.com/dotnet/brand/blob/c7d0f51b8ec59531332d05fb27a5b758a7a3d689/logo/dotnet-logo.svg
+30 seconds of code — https://github.com/Chalarangelo/30-seconds-of-code/blob/44c0ba94857a7796026c6795c47e964126876d5a/logo/logo-resources/logo.svg
+Acode — https://github.com/Acode-Foundation/acode.app/blob/b54aa548716a029871249cc5c3ad9ca0657aa734/client/res/logo.svg
+Activeloop — https://github.com/simple-icons/simple-icons/issues/11387#issuecomment-2208988862
+Actix — https://github.com/actix/actix-website/issues/18#issuecomment-393581556
+Actual Budget — https://github.com/actualbudget/actual/blob/f9f6917fcdeadd138f5e21c7bd24e475778c4263/packages/component-library/src/icons/logo/logo.svg
+AdAway — https://github.com/AdAway/adaway.github.io/blob/afbe891b58ab5d0207a98a4a2fac410a55710914/assets/img/logo.svg
+Agent Skills — https://github.com/agentskills/agentskills/blob/5d4c1fda3f786fff826c7f56b6cb3341e7f3a911/docs/favicon.svg
+Agora — https://github.com/AgoraIO/Docs-Source/blob/849872dd0496bada0a2dceecb3f79663e3b2d323/assets/images/others/agora-logo.svg
+AIOHTTP — https://github.com/aio-libs/aiohttp/blob/fb5fe72b1bca3b899af579d376f5fe45745410e4/docs/aiohttp-plain.svg
+Aiqfome — https://github.com/aiqfome/aiq-design-system/blob/457a104c6cb1a42975908fdb05b2e0b83f3fabb4/public/logo.svg
+Airbrake — https://github.com/airbrake/slate/blob/c116f2968bcf4dfda126511de0a2d0f0dc8b6a8e/source/images/logo.svg
+Ajv — https://github.com/ajv-validator/ajv/blob/95b15b683dfb60f63c5129b0426629b968d53af8/docs/.vuepress/public/img/ajv.svg
+Alacritty — https://github.com/alacritty/alacritty/blob/6d8db6b9dfadd6164c4be7a053f25db8ef6b7998/extra/logo/alacritty-simple.svg
+Alby — https://github.com/getAlby/media/blob/c24fee4a3f76d6cd000343a972f10590d3913b25/Alby-logo-icons/Alby-logo-head/alby.svg
+Anime.js — https://github.com/simple-icons/simple-icons/pull/13197#issuecomment-2900606090
+AntennaPod — https://github.com/AntennaPod/Branding/blob/115dc180bb562eab4e5edc55eccfbdc11cd56873/Logo/logo-icon-white-out.svg
+Anytype — https://github.com/anyproto/anytype-ts/blob/544498296ceb4b6ed2970414de493f7f72bd0fcf/src/img/logo/symbol.svg
+Apostrophe — https://github.com/apostrophecms/apostrophe/blob/a7fcc6b13831302e27f79a6fcaaf58e3a40517df/logo.svg
+Appium — https://github.com/openjs-foundation/artwork/blob/270575392800eb17a02612203f6f0d5868c634a7/projects/appium/appium-icon-mono.svg
+AppManager — https://github.com/muntashirakon/AppManager/blob/1a46b0296dae1bc2cf62beedba44ed3bb5e89243/arts/icon_v2/icon.svg
+Ardour — https://github.com/Ardour/ardour/blob/c5a0c0f6e0fc1ed0b94f94af38d5b55d49882add/tools/misc_resources/ardour_bw.svg
+Argo — https://github.com/cncf/artwork/blob/c2e619cdf85e8bac090ceca7c0834c5cfedf9426/projects/argo/icon/black/argo-icon-black.svg
+Ariakit — https://github.com/ariakit/ariakit/blob/a739913ab1c3919c4353f0e0e3573ec6eda99549/logo/icon.svg
+Artifact Hub — https://github.com/artifacthub/hub/blob/b7df64e044687e5788d6e7e809539679eb9fe45a/web/public/static/media/logo/artifacthub-brand-white.svg
+Asahi Linux — https://github.com/AsahiLinux/artwork/blob/292637c9658c1491ddc1128fb6134aec01d904dd/logos/svg/AsahiLinux_logomark_mono.svg
+Asciidoctor — https://github.com/asciidoctor/brand/blob/b9cf5e276616f4770c4f1227e646e7daee0cbf24/logo/logo-fill-bw.svg
+asciinema — https://github.com/asciinema/asciinema-logo/blob/1c743621830c0d8c92fd0076b4f15f75b4cf79f4/logo-red.svg
+Aspire — https://github.com/microsoft/aspire-brand/blob/f9eb464dec47870de23d55dd7b3c00d39122813d/logo/developer-tools/aspire-plain.svg
+Audiobookshelf — https://github.com/advplyr/audiobookshelf/blob/0d9d2fa4be9b642f0948e52ddff71ff370fd524d/images/banner.svg
+Authelia — https://github.com/authelia/authelia/blob/8316cd4eb7a6f0778c8f480c61ad76a88416fc3a/docs/static/images/branding/logo.svg
+Authentik — https://github.com/goauthentik/authentik/blob/2c64f72ebc57dad9789c1fb799dd7cd39003d043/web/icons/icon.svg
+AutoCannon — https://github.com/mcollina/autocannon/blob/feeec71a7483153bd382de1c7ce5dfc31fa3c16f/autocannon-logo-icon-1000px.png
+Autoprefixer — https://github.com/postcss/autoprefixer/blob/1341747bc8142a147342f55eea5ed4286a3ca318/logo.svg
+avajs — https://github.com/avajs/ava/blob/6f8e30c94626238a5b26deadac319089fa43d333/media/logo.svg
+Awesome Lists — https://github.com/sindresorhus/awesome/tree/52b6dbacde01c2595f2133a5378cb8d2f89906fa/media/logo.svg
+Axios — https://github.com/axios/axios-docs/blob/ba35d67160f94419c1b0292831cd1a4b378adb42/assets/logo.svg
+Babel — https://github.com/babel/website/blob/93330158b6ecca1ab88d3be8dbf661f5c2da6c76/website/static/img/babel-black.svg
+Babylon.js — https://github.com/BabylonJS/Brand-Toolkit/blob/8583d4d9bf252a233fa480fa02ac6f367d5207a1/babylon_logo/monochrome/babylon_logo_monochrome_dark.svg
+Backstage — https://github.com/backstage/backstage/blob/862f2517188849dd7467d059edeb8692e6933c35/microsite/static/logo_assets/svg/Icon_Teal.svg
+Bastyon — https://github.com/pocketnetteam/pocketnet.gui/blob/978201dca0d63bc87c4c66513a67f085f2f51d83/img/logo.svg
+bat — https://github.com/sharkdp/bat/blob/018a4826211b8b486883b720a5daa65eca2d4604/doc/logo-header.svg
+BentoML — https://github.com/bentoml/BentoML/blob/2169ebe9bc74e3d89ceba5dda8f8e1b85f08efa5/docs/source/_static/img/logo-light.svg
+Better Auth — https://github.com/better-auth/better-auth/blob/fd62eba1d0ec71b3abb17ece92a4aae0c3c85270/docs/public/branding/better-auth-logo-light.svg
+BetterDiscord — https://github.com/BetterDiscord/docs/blob/a6ba3a369c7149bdce099eca1df6330cc09ac472/static/branding/logo_small.svg
+Bevy — https://github.com/bevyengine/bevy/blob/371c90f6faecf318ff66e3c6efa6f9f48781f63f/assets/branding/bevy_bird_simpleicons.svg
+BigBlueButton — https://github.com/bigbluebutton/bbb-app-rooms/blob/0fcf9636a3ba683296326f46354265917c4f0ea4/app/assets/images/icon.svg
+Bioconductor — https://github.com/Bioconductor/BiocStickers/blob/2e3af2dd45ce43e18110c91b687ebcb996cffae9/Bioconductor/Bioconductor-note.svg
+Biome — https://github.com/biomejs/resources/blob/551f36498dfe34b24bc7755fcdd0fa501b757cf4/svg/icon-light-mono.svg
+Braintrust — https://github.com/simple-icons/simple-icons/issues/13497#issuecomment-2992162934
+bspwm — https://github.com/baskerville/bspwm/blob/8fc2269fe0f29a785885bcd9122812eae7226d7b/artworks/bspwm_logo.svg
+Budibase — https://github.com/Budibase/budibase/blob/6137ffd9a278ecb3e4dbb42af804c9652741699e/packages/builder/assets/bb-emblem.svg
+Buefy — https://github.com/buefy/buefy/blob/a9a724efca0b531e6a64ab734889b00bf4507a9d/static/img/icons/safari-pinned-tab.svg
+C++ — https://github.com/isocpp/logos/tree/64ef037049f87ac74875dbe72695e59118b52186
+Cairo Graphics — https://github.com/freedesktop/cairo/blob/44f808fce9f437e14f2b0ef4e1583def8ab578ae/doc/tutorial/slides/cairo-title.svg
+Calibre-Web — https://github.com/janeczku/calibre-web/blob/ab11919c0bff5ddea1eed2bfd80fd7ea26f05710/cps/static/icon.svg
+Capacitor — https://github.com/ionic-team/ionicons-site/blob/b0c97018d737b763301154231b34e1b882c0c84d/docs/ionicons/svg/logo-capacitor.svg
+CapRover — https://github.com/caprover/caprover-website/blob/3ddf18f00923a89639193c578a8f25418b30c0b6/graphics/logo.svg
+Cardmarket — https://github.com/simple-icons/simple-icons/issues/13380#issuecomment-2993697122
+Celery — https://github.com/celery/celery/blob/4d77ddddb10797011dc10dd2e4e1e7a7467b8431/docs/images/favicon.ico
+Ceph — https://github.com/ceph/ceph/blob/b106a03dcddaee80493825e85bc5e399ab4d8746/src/pybind/mgr/dashboard/frontend/src/assets/Ceph_Logo.svg
+Chai — https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373
+Chakra UI — https://github.com/chakra-ui/chakra-ui/blob/e08025b359146d80ab46f1d35da82a11780c5316/media/logomark-colored.svg
+Cheerio — https://github.com/cheeriojs/cheerio/blob/60b538772c34f2dd93e9c62e410b2751d0a69ff3/website/static/img/orange-c.svg
+Cilium — https://github.com/cilium/cilium/blob/774a91f0e7497d9c9085234005ec81f1065c3783/Documentation/images/logo-solo.svg
+ClickHouse — https://github.com/ClickHouse/ClickHouse/blob/12bd453a43819176d25ecf247033f6cb1af54beb/website/images/logo-clickhouse.svg
+CNCF — https://github.com/cncf/artwork/blob/d2ed716cc0769e6c65d2e58f9a503fca02b60a56/examples/other.md#cncf-logos
+Cockpit — https://github.com/cockpit-project/cockpit/blob/e0e3ba3feecf4d01e6c10a4771855b1ecc57105c/src/branding/default/logo.svg
+CocoaPods — https://github.com/CocoaPods/shared_resources/tree/3125baf19976bd240c86459645f45b68d2facd10
+Codeberg — https://codeberg.org/Codeberg/Design/src/commit/ac514aa9aaa2457d4af3c3e13df3ab136d22a49a/logo/special/codeberg-logo_special_fake-transaprency.svg
+CodeceptJS — https://github.com/codeceptjs/codeceptjs.github.io/blob/c7917445b9a70a9daacf20986c403c3299f5c960/favicon/safari-pinned-tab.svg
+CodeCrafters — https://github.com/codecrafters-io/frontend/blob/2f15115b73843fea57a412ce243ff1cedb5e69f7/public/assets/images/logo/logomark-color.svg
+CodeMirror — https://github.com/codemirror/CodeMirror/blob/6e7aa65a8bfb64837ae9d082b674b2f5ee056d2c/doc/logo.svg
+Coderwall — https://github.com/twolfson/coderwall-svg/tree/e87fb90eab5e401210a174f9418b5af0a246758e
+Codewars — https://github.com/codewars/branding/tree/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983
+commitlint — https://github.com/conventional-changelog/commitlint/blob/0b177635472214faac5a5800ced970bf4d2e6012/docs/assets/icon.svg
+Common Workflow Language — https://github.com/common-workflow-language/logo/blob/54b1624bc88df6730fa7b6c928a05fc9c939e47e/CWL-Logo-nofonts.svg
+Compiler Explorer — https://github.com/compiler-explorer/infra/blob/8d362efe7ddc24e6a625f7db671d0a6e7600e3c9/logo/icon/CompilerExplorer%20Logo%20Icon%20SVG.svg
+Conda-Forge — https://github.com/conda-forge/conda-forge.github.io/blob/34adb68298ca266af13c3d615f7af8b6c232f6fb/img/anvil.svg
+Contensis — https://github.com/contensis/cli/blob/d98c9ab312de942b2417040fc51a021de39a7fd5/assets/contensis-logo.svg
+Cookiecutter — https://github.com/cookiecutter/cookiecutter/blob/52dd18513bbab7f0fbfcb2938c9644d9092247cf/logo/cookiecutter-logo.svg
+Coolify — https://github.com/coollabsio/coolify/blob/ac1d98f6035caff10f36fa10508326b4791dec07/public/coolify-logo-monochrome.svg
+CrateDB — https://github.com/crate/crate-docs-theme/blob/cbd734b3617489ca937f35e30f37f3f6c1870e1f/src/crate/theme/rtd/crate/static/images/crate-logo.svg
+Create React App — https://github.com/facebook/create-react-app/blob/9d0369b1fe3260e620b08effcf85f1edefc5d1ea/docusaurus/website/static/img/logo.svg
+CrewAI — https://github.com/crewAIInc/crewAI/blob/a7696d5aed7a85333735dde370fd9f0547aaabf5/docs/favicon.svg
+Cryptomator — https://github.com/cryptomator/docs/blob/795a5a414b7e848cbfd4502a4ff63cfdb3adfb15/source/img/logo-mono-white.svg
+CSS — https://github.com/CSS-Next/logo.css/blob/bacc20878227204b283c68a6b935f8279e06b0cd/css.svg
+CSS Modules — https://github.com/css-modules/logos/blob/32e4717062e4328ed861fa92d5d9cfd47859362f/css-modules-logo.svg
+Cytoscape.js — https://github.com/cytoscape/cytoscape.js/blob/97c27700feefe2f7b79fca248763049e9a0b38c6/documentation/img/cytoscape-logo.svg
+D — https://github.com/dlang/dlang.org/blob/6d0e2e5f6a8249031cfd010e389b99ff014cd320/images/dlogo.svg
+D-EDGE — https://github.com/d-edge/JoinUs/blob/4d8b5cf7145db26649fe9f1587194e44dbbe3565/d-edge.svg
+D3 — https://github.com/d3/d3-logo/tree/6d9c471aa852033501d00ca63fe73d9f8be82d1d
+Dapr — https://github.com/dapr/dapr/blob/18575823c74318c811d6cd6f57ffac76d5debe93/img/dapr_logo.svg
+Dark Reader — https://github.com/simple-icons/simple-icons/pull/3348#issuecomment-667090608
+Dart — https://github.com/dart-lang/site-shared/tree/18458ff440afd3d06f04e5cb871c4c5eda29c9d5/src/_assets/image/dart/logo
+Dask — https://github.com/dask/dask/blob/67e648922512615f94f8a90726423e721d0e3eb2/docs/source/images/dask_icon_black.svg
+Decap CMS — https://github.com/decaporg/decap-cms/blob/ba158f4a56d6d79869811971bc1bb0ef15197d30/website/static/img/decap-logo.svg
+Decentraland — https://github.com/decentraland/catalyst/issues/1726#issuecomment-2078585173
+Deluge — https://github.com/deluge-torrent/deluge/blob/0b5f45b486e8e974ba8a0b1d6e8edcd124fca62a/deluge/ui/data/pixmaps/deluge.svg
+Deno — https://github.com/denoland/docs/blob/5dee713844c7447f80acd4093caa9d350d80bf36/static/img/logo.svg
+Devbox — https://github.com/jetify-com/devbox/blob/c3cab01d7375726f0121a25fc0f5c838484246f7/docs/app/static/img/devbox_logo_light.svg
+Development Containers — https://github.com/microsoft/fluentui-system-icons/blob/3e1e525f4499a22d46039ef54e9b9a86b809bc66/assets/Cube/SVG/ic_fluent_cube_24_regular.svg
+Devpost — https://github.com/challengepost/supportcenter/blob/e40066cde2ed25dc14c0541edb746ff8c6933114/images/devpost-icon-rgb.svg
+diagrams.net — https://github.com/jgraph/drawio/blob/4743eba8d5eaa497dc003df7bf7295b695c59bea/src/main/webapp/images/drawlogo.svg
+DiceBear — https://github.com/dicebear/brand/blob/f1471839b82900c1b6da4a606d28b319949ebfc9/src/icon.svg
+Dify — https://github.com/langgenius/dify/blob/48f6b2e885eb40230dfe318fe4d3fb71b50dbc02/web/public/logo/logo.svg
+discord.js — https://github.com/discordjs/discord.js/blob/8e03af6eaff15a234569c8bccdb8719a8bf282ae/apps/guide/public/logo.svg
+Distrobox — https://github.com/89luca89/distrobox/blob/71cf8295fb74bb2805904cb3fb497556331ec169/docs/assets/brand/svg/distrobox-logomark-light-mono.svg
+Dlib — https://github.com/davisking/dlib/blob/8a2c7442074339ac9ffceff6ef5a49e0114222b9/docs/docs/dlib-logo-and-icons.svg
+dlthub — https://github.com/dlt-hub/dlt/blob/3201e053ddffd399ed060f5cc33dc72439cb5c7b/docs/website/static/img/dlt-logo.svg
+Docsify — https://github.com/docsifyjs/docsify/blob/d01841fd9d829adeeae6cde1d5818ce8798c7e58/docs/_media/icon.svg
+Docusaurus — https://github.com/facebook/docusaurus/blob/67c40069d1062b5aae530b696e6f66bf9618a696/website/static/img/docusaurus.svg
+Dolibarr — https://github.com/Dolibarr/dolibarr-foundation/blob/39f562651f88c4c4a4cd5754c18a7a2cd3dd5e59/logo-cliparts/dolibarr_256x256_color.svg
+Dolphin — https://github.com/dolphin-emu/dolphin/blob/6851ed73f41f43b9a2da23e7f4cb58f58a904fe2/Data/dolphin-emu.svg
+Doxygen — https://github.com/doxygen/doxygen/blob/2e73e6a53abe00a57b7eb0ea5ed6474baf4ebab7/templates/html/doxygen.svg
+Drone — https://github.com/drone/brand/tree/f3ba7a1ad3c35abfe9571ea9c3ea93dff9912955
+DTube — https://github.com/dtube/about/blob/bb688ac6588bb6e664f61c0e10f03c51f577444b/img/kit/Logo_Black_D.svg
+DuckDuckGo — https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/5c6ac8d6a07421adbfb97ee2ff855dd7655f8d71/shared/img/logo-small-grayscale.svg
+Eclipse Jetty — https://github.com/eclipse/jetty.project/blob/dab26c601d08d350cd830c1007bb196c5196f0f6/logos/jetty-avatar.svg
+Eclipse Mosquitto — https://github.com/eclipse/mosquitto/blob/75fc908bba90d4bd06e85efc1c4ed77952ec842c/logo/mosquitto-logo-only.svg
+Eclipse Vert.x — https://github.com/vert-x3/.github/blob/1ad6612d87f35665e50a00fc32eb9c542556385d/workflow-templates/vertx-favicon.svg
+EJS — https://github.com/mde/ejs-site/blob/dd845093a46b373df42108b888a0ad80085a5c94/ejs.svg
+Electron Fiddle — https://github.com/electron/fiddle/blob/19360ade76354240630e5660469b082128e1e57e/assets/icons/fiddle.svg
+Elixir — https://github.com/elixir-lang/elixir-lang.github.com/tree/031746384ee23b9be19298c92a9699c56cc05845/images/logo
+Elk — https://github.com/elk-zone/elk/blob/d601a117c049458bc032258cc86df76387d51b43/public/logo.svg
+Elm — https://github.com/elm/foundation.elm-lang.org/blob/2d097b317d8af2aaeab49284830260a32d817305/assets/elm_logo.svg
+EndeavourOS — https://github.com/endeavouros-team/endeavouros-theming/blob/135f642c980ed8d8fc212783eb478f96226f6c72/endeavouros-logo-text.svg
+Erlang — https://github.com/erlang/erlide_eclipse/blob/99d1d61fde8e32ef1630ca0e1b05a6822b3d6489/meta/media/erlang-logo.svg
+ERPNext — https://github.com/frappe/erpnext/blob/924911e74317f95a59f29e9410d4f141020a0411/erpnext/public/images/erpnext-logo.svg
+esbuild — https://github.com/evanw/esbuild/blob/ac542f913908d7326b65eb2e01f0559ed135a40e/images/logo.svg
+ESPHome — https://github.com/esphome/developers.esphome.io/blob/7c0304aa36536c63c93b1f19ba18969f96df0e08/docs/images/logo.svg
+Event Store — https://github.com/EventStore/Brand/tree/319d6f8dadc2881062917ea5a6dafa675775ea85
+Exercism — https://github.com/exercism/website-icons/blob/2ad12baa465acfaa74efc5da27a6a12f8b05e3d0/exercism/logo-icon.svg
+Express — https://github.com/openjs-foundation/artwork/blob/3816245ebbf4707bdafde748350ac8476b6b5b62/projects/express/express-icon-black.svg
+Faker — https://github.com/faker-js/faker/blob/b4acc285d6e0323802926a8f9d3134ce06114a63/docs/public/favicon.svg
+FastAPI — https://github.com/tiangolo/fastapi/blob/ffb4f77a11f83132b521ba0aac6c95792c19e797/docs/en/docs/img/icon-white.svg
+Fastify — https://github.com/fastify/graphics/blob/91e8a3d4754807de3b69440f66c72a737a5fde94/fastify-1000px-square-02.svg
+Fastlane — https://github.com/fastlane/fastlane.tools/blob/19ff41a6c0f27510a7a7879e6944809d40ab382e/assets/img/logo-mobile.svg
+FerretDB — https://github.com/FerretDB/FerretDB/blob/1176606075dfe52225ce0cd1bbd0cd06128f8599/website/static/img/logo.svg
+Filen — https://github.com/FilenCloudDienste/filen-drive-legacy/issues/166#issue-2139393162
+Fireship — https://github.com/fireship-io/fireship.io/blob/987da97305a5968b99347aa748f928a4667336f8/hugo/layouts/partials/svg/logo.svg
+Firewalla — https://github.com/firewalla/firewalla/blob/97f7463fe07b85b979a8f0738fdf14c1af0249a8/extension/diag/static/firewalla.svg
+fish shell — https://github.com/fish-shell/fish-site/blob/1364b2e794c9aba7492c8962bae0f7fbe4886317/artwork/ascii%20fish.eps
+Flask — https://github.com/pallets/flask/blob/85c5d93cbd049c4bd0679c36fd1ddcae8c37b642/docs/_static/flask-icon.svg
+Flat — https://github.com/netless-io/flat/blob/525b2247f36e96ae2f9e6a39b4fe0967152305f2/desktop/renderer-app/src/assets/image/logo.svg
+Floorp — https://github.com/Floorp-Projects/Floorp/discussions/1676#discussioncomment-12697472
+Fluent Bit — https://github.com/fluent/fluent-bit/blob/cdb35721d06242d66a729656282831ccd1589ca2/snap/fluent-bit.svg
+Flux — https://github.com/cncf/artwork/blob/c2e619cdf85e8bac090ceca7c0834c5cfedf9426/projects/flux/icon/black/flux-icon-black.svg
+Flyway — https://github.com/flyway/flywaydb.org/blob/8a7923cb9ead016442d4c5caf2e8ba5a9bfad5cf/assets/logo/flyway-logo.png
+Forgejo — https://codeberg.org/forgejo/meta/raw/branch/readme/branding/logo/forgejo-monochrome.svg
+Fortran — https://github.com/fortran-lang/fortran-lang.org/blob/5469465d08d3fcbf16d048e651ca5c9ba050839c/assets/img/fortran-logo.svg
+Foundry Virtual Tabletop — https://github.com/simple-icons/simple-icons/issues/5828#issuecomment-1977557112
+Framework7 — https://github.com/framework7io/framework7-website/blob/2a1e32290c795c2070ffc7019ba7276614e00de0/public/i/logo.svg
+Frappe — https://github.com/frappe/frappe/blob/1331fa6f721122805d15894fa3bd9eb90dccdca2/frappe/public/images/frappe-framework-logo.svg
+FreeNAS — https://github.com/freenas/webui/blob/fd668f4c5920fe864fd98fa98e20fd333336c609/src/assets/images/logo.svg
+FreeTube — https://github.com/FreeTubeApp/FreeTube/blob/45053d084104e8566b8f16263cafd9df0c013e7f/_icons/iconBlackSmall.svg
+Fresh — https://github.com/denoland/fresh/blob/7e4a22f7af55192a53d90ec6e6bfeacd213c169d/www/static/logo.svg
+Garuda Linux — https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-icons/-/blob/aab26625fe01479ebc3a252103fca723baca9e88/usr/share/icons/garuda/distributor-logo-garuda-outline.svg
+Geode — https://github.com/geode-sdk/website/blob/a6a6aa7eaad8ce699d0e050b2b0c1c0119f3624a/media/geode_logos.zip
+GetX — https://github.com/simple-icons/simple-icons/issues/5940#issuecomment-1821561714
+Ghost — https://github.com/TryGhost/Admin/blob/e3e1fa3353767c3729b1658ad42cc35f883470c5/public/assets/icons/icon.svg
+Ghostfolio — https://github.com/ghostfolio/ghostfolio/blob/cc92ecf62a014b27146338bb7a20ed6eeb525fba/apps/client/src/assets/ghost.svg
+Ghostty — https://github.com/ghostty-org/website/blob/7093f052a2f35e0247fcb828ede644ed74a749a0/public/ghostty-logo.svg
+Gin — https://github.com/gin-gonic/logo/blob/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/wb.svg
+Git Extensions — https://github.com/gitextensions/gitextensions/blob/273a0f6fd3e07858f837cdc19d50827871e32319/Logo/Artwork/git-extensions-logo.svg
+Git for Windows — https://github.com/git-for-windows/git-for-windows.github.io/blob/db9a134ed0fd484568124c1f79cb011eddb9a21d/img/gwindows_logo.svg
+Gitea — https://github.com/go-gitea/gitea/blob/e0c753e770a64cda5e3900aa1da3d7e1f3263c9a/assets/logo.svg
+GitHub Actions — https://github.com/features/actions
+GitHub Sponsors — https://github.com/sponsors
+Glance — https://github.com/glanceapp/glance/blob/c88fd526e55117445c7f4440c83b661faa402047/internal/glance/static/favicon.svg
+GNU Bash — https://github.com/odb/official-bash-logo/tree/61eff022f2dad3c7468f5deb4f06652d15f2c143
+Google Apps Script — https://github.com/simple-icons/simple-icons/issues/3556#issuecomment-800482267
+Google Earth Engine — https://github.com/simple-icons/simple-icons/issues/8912#issuecomment-1638850020
+Gradle Play Publisher — https://github.com/Triple-T/gradle-play-publisher/blob/df4eadf1ca6b5bad50e21be0b21816722ed50342/assets/logo.svg
+GrapheneOS — https://github.com/GrapheneOS/branding-extra/blob/5cc2e4b781345b89457d8ef814bd1aae56af289f/simple.svg
+Greasy Fork — https://github.com/JasonBarnabe/greasyfork/blob/bfeb5f405e03fb32ebc86df7e11c83ca1cb79ddb/misc/logos/logo512.xcf
+GreptimeDB — https://github.com/GreptimeTeam/greptimedb-grafana-datasource/blob/ead7c1dd1a589c313fb9e3635bd0a9fee93ee795/src/img/greptimedb_logo.svg
+Grid.ai — https://github.com/gridai/logos/blob/1e12c83b77abdc22a41566cab232f4db40223895/GridAI-icons/icon-white-48.svg
+Grocy — https://github.com/grocy/grocy/blob/9e1020b7f8994e2d3e3e890da64ceba9903b2fb2/public/img/icon.svg
+Grunt — https://github.com/gruntjs/gruntjs.com/blob/70f43898d9ce8e6cc862ad72bf8a7aee5ca199a9/src/media/grunt-logo-no-wordmark.svg
+gulp — https://github.com/gulpjs/artwork/blob/4e14158817ac88e9a5c02b3b307e6f630fe222fb/gulp-white-text.svg
+Gunicorn — https://github.com/benoitc/gunicorn/blob/ff58e0c6da83d5520916bc4cc109a529258d76e1/docs/logo/gunicorn.svg
+Gutenberg — https://github.com/WordPress/gutenberg/blob/7829913ae117dfb561d14c600eea7b281afd6556/docs/final-g-wapuu-black.svg
+H2 Database — https://github.com/h2database/h2database/blob/4472d76fc6a77cb079a8a0c24d80dc05dade56e1/h2/src/docsrc/images/h2_v2_3_7.svg
+H3 — https://github.com/uber/h3/blob/71e09dc002b211887c6db525609a449058233a71/website/static/images/h3Logo-color.svg
+Handlebars.js — https://github.com/handlebars-lang/docs/blob/13a2e2d9e31ebff4295924ea366abf3062e47ede/src/.vuepress/public/icons/handlebarsjs-icon.svg
+HAProxy — https://github.com/simple-icons/simple-icons/pull/15025#issuecomment-5835041111
+Harbor — https://github.com/cncf/artwork/blob/ff2b2b5216e22f001ddd444ca580c484dd10302e/projects/harbor/icon/black/harbor-icon-black.svg
+Hasura — https://github.com/hasura/graphql-engine/blob/5e2f5d470cdc2a7e59db7a3d5e94475a00bb2ac6/docs/static/img/logo.svg
+Have I Been Pwned — https://github.com/HaveIBeenPwned/Branding/blob/d5a5d3c252a461c6c7e2ae60942fc80e50d2755d/Logos/Icon/Icon.svg
+Haystack — https://github.com/simple-icons/simple-icons/issues/12288#issuecomment-2567870921
+HedgeDoc — https://github.com/hedgedoc/hedgedoc-logo/blob/ddc01f74e0260340fa7c2a9d59cf4f21d08aa2c4/LOGOTYPE/SVG/HedgeDoc-Logo%20Small%20size.svg
+Helium Browser — https://github.com/imputnet/helium-macos/blob/0567a6078847e7dd11ce3c4f2eedcf49aa327dfe/resources/assets/AppIcon.icon/Assets/logo.svg
+Heroic Games Launcher — https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/blob/aefe212367acbce1964491c8e254826b124e34cb/src/frontend/assets/heroic-icon.svg
+Homarr — https://github.com/ajnart/homarr/blob/2bf423132d9077d371d254e577fc57037a31ac4b/public/imgs/favicon/favicon.svg
+Home Assistant — https://github.com/home-assistant/assets/blob/0f69676da79c3881e7dfca6d6c0a5739f88273d8/logo/home-assistant-logo.zip
+Homebrew — https://github.com/Homebrew/brew.sh/blob/2e576aaca83e62dda41a188597bb4bd20e75e385/assets/img/homebrew.svg
+Homebridge — https://github.com/homebridge/branding/blob/6ef3a1685e79f79a2ecdcc83824e53775ec0475d/logos/homebridge-silhouette-round-black.svg
+Homepage — https://github.com/gethomepage/homepage/blob/e56dccc7f17144a53b97a315c2e4f622fa07e58d/public/safari-pinned-tab.svg
+Hono — https://github.com/honojs/hono/blob/76dbc74407329c46870af6aa4fab0c04036d8ae2/docs/images/hono-logo.svg
+htmx — https://github.com/bigskysoftware/htmx/blob/f690d928342b6334fa539cfbd4be515748d2ba0f/www/static/img/htmx_logo.2.png
+htop — https://github.com/htop-dev/htop/blob/03d5e4746f53bd07daf68638d714a7fec336297b/htop.svg
+HTTPie — https://github.com/httpie/httpie/blob/d262181bede5241a6b692c3245a77e2eb02bc262/docs/httpie-logo.svg
+HumHub — https://github.com/humhub/documentation/blob/e7844d7373ddf351cc7603fe9b7449009fa7c3b0/static/img/logo.svg
+Hypit — https://github.com/hypit-ai/hypit/blob/2c320059c1260d0f6f8101472395f91f2f9c8243/docs/public/hypit-logo-dark.svg
+i18next — https://github.com/i18next/i18next-gitbook/blob/32efcfd9c59ae55cc63a60e633dbc1651c7950ad/assets/img/logo.svg
+i3 — https://github.com/i3/i3/blob/d6e2a38b5cdf200c0fb82fc4cf7fff7dbcdeb605/logo.svg
+Icinga — https://github.com/Icinga/icingaweb2/blob/293021b2000e9d459387153ca5690f97e0184aaa/public/img/icinga-logo-compact.svg
+Image Toolbox — https://github.com/T8RIN/ImageToolbox/blob/d60ab01ea8e76235eee1b6ea5fe80d7cb34d9c50/fastlane/metadata/android/en-US/images/icon.svg
+ImageJ — https://github.com/imagej/imagej/blob/0667395bcac20e5d7a371ac9f468522c74367d59/logo/inkscape_image_logo_src.svg
+Immer — https://github.com/immerjs/immer/blob/7a5382899bc8b0bf5e21972a1c7db63f53e1d697/website/static/img/immer-logo.svg
+Immich — https://github.com/immich-app/immich/blob/25c9b779e4d19bc34551f8b137266a459e0d70e1/design/immich-logo.svg
+Inquirer — https://github.com/SBoudrias/Inquirer.js/blob/c73953e9f8d7f5cc91f07b80ddcef67d09ba380e/assets/inquirer_readme.svg
+InteractJS — https://github.com/taye/interact.js/blob/603c34d4b34dece8a260381e2e5991b810d6d739/img/ijs-icon.svg
+Invidious — https://github.com/iv-org/invidious-redirect/blob/d5e4d97f4f998b8c2512c51ed9961a8d989a7ce0/src/assets/img/invidious-logo-light.svg
+Invoice Ninja — https://github.com/invoiceninja/invoiceninja/blob/2bdb26dd06123a0426cc7a8da77fc8fce7e5a222/public/images/round_logo.png
+ioBroker — https://github.com/ioBroker/awesome-iobroker/blob/6ba42e9fcda7c88356e2f8c98f435ce7b02d4e37/images/awesome-iobroker.svg
+IPFS — https://github.com/ipfs-inactive/logo/tree/73169b495332415b174ac2f37ec27c4b2ee8da83
+Istio — https://github.com/istio/istio/blob/5a047251817eb2523af297607b7614120812e47a/logo/istio-bluelogo-whitebackground-unframed.svg
+iTerm2 — https://github.com/gnachman/iTerm2/blob/6a857f3f5872eb1465ddc0dd83412015991e79ae/images/AppIcon/iTermIcon.sketch
+Jaeger — https://github.com/cncf/artwork/blob/e7e09686c20db6ddac06e482cf3338b0c8b2e22d/projects/jaeger/icon/black/jaeger-icon-black.svg
+Jamstack — https://github.com/jamstack/jamstack.org/blob/a7de230798f98bdde78f0a0eeb5ebfc488c563aa/src/site/img/logo/svg/Jamstack_Icon_Original.svg
+Jasmine — https://github.com/jasmine/jasmine/blob/8991b1bba39b5b7e89fc5eeb07ae271a684cb1a4/images/jasmine-horizontal.svg
+JavaScript — https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg
+Jekyll — https://github.com/jekyll/brand/blob/8302ad3ecf045054a095020729a8d2cc7005faf8/jekyll-logo-black.svg
+JHipster — https://github.com/jhipster/jhipster-artwork/blob/1085d85ab6d819b9ef7f6cc710ec8a4977b95e90/logos/JHipster%20bowtie.svg
+Jitsi — https://github.com/jitsi/jitsi-meet/blob/767101497c9a52abf8cef7893e8d6e7e4283bbfc/images/watermark.svg
+Joplin — https://github.com/laurent22/joplin/blob/45e35576bd8b1bb0ffe958309cc1ab3736cc266b/Assets/JoplinLetter.svg
+jsDelivr — https://github.com/jsdelivr/www.jsdelivr.com/blob/eff02f3a8879cf7c7296840584e1293fe04e3a76/src/public/img/logo_horizontal.svg
+JSR — https://github.com/jsr-io/jsr/blob/98c4448c64b1dddd1fc7cc54af961284f4262e82/frontend/static/logo.svg
+Julia — https://github.com/JuliaLang/julia-logo-graphics/blob/b5551ca7946b4a25746c045c15fbb8806610f8d0/images/julia-dots.svg
+JUnit5 — https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg
+Kando — https://github.com/kando-menu/design/blob/6506e2656f791b710b49a4774e7ebeaf419a1236/icons/source/blossom_tiny.svg
+Kaniko — https://github.com/GoogleContainerTools/kaniko/blob/cf5ca26aa4e2f7bf0de56efdf3b4e86b0ff74ed0/logo/Kaniko-Logo-Monochrome.svg
+Kedro — https://github.com/kedro-org/kedro-brand-identity/blob/7f7b380cb1a2951c06ca292f0d2b442db895f804/icon/black/kedro-icon-svgo-black.svg
+KeeWeb — https://github.com/keeweb/keeweb/blob/44432eb66d5b771d5867cdd74f2500d00e006783/graphics/svg/keeweb.svg
+Keybase — https://github.com/keybase/client/tree/a144e0ce38ee9e495cc5acbcd4ef859f5534d820/media/logos
+Keycloak — https://github.com/keycloak/keycloak-misc/blob/dee033f2d6d6b5c3a6ce8eb84e285f7e5626dbf6/logo/icon-black.svg
+Knative — https://github.com/knative/community/blob/fb49068c9b7619685248247d29e48eb3d96f3ac2/icons/logo.svg
+Knex.js — https://github.com/knex/documentation/blob/a9c4ce47dbc6001bb1c6aa0649bb668edc78fea7/src/public/knex-logo.png
+Known — https://github.com/idno/known/tree/22c4935b57a61d94d2508651128b4f828f864989/gfx/logos
+Konva — https://github.com/konvajs/konvajs.github.io/blob/2cfe67461dfe32076ba56c88a75fe8e99d068130/icon.png
+KOReader — https://github.com/koreader/koreader/blob/58860f65ddd7c6e14807fde55a445953a46754d5/resources/koreader.svg
+Kubernetes — https://github.com/kubernetes/kubernetes/tree/cac53883f4714452f3084a22e4be20d042a9df33/logo
+Kubespray — https://github.com/kubernetes-sigs/kubespray/blob/1b2e66cd305d1349daed85c8e356a5a8de5cc1f3/logo/logo-dark.svg
+Langflow — https://github.com/langflow-ai/langflow/blob/a5f5f3e3e30ee1740b696e3ad1823287ba27870c/docs/static/img/langflow-icon-black-transparent.svg
+Lapce — https://github.com/lapce/lapce/blob/95c4cf2d87083e348c0b621d0be0ea17f79ed703/extra/images/logo.svg
+Laravel — https://github.com/laravel/art/tree/5a8325b064634b900f25dbb6f1cafd888b2d2211
+Laravel Horizon — https://github.com/laravel/horizon/blob/79ed572422d0ff789e9673a6dd9579026f14233a/public/img/horizon.svg
+LaTeX — https://github.com/latex3/branding/tree/9def6b5f6075567d62b67424e11dbe6d4d5245b4
+Lazarus — https://sourceforge.net/projects/lazarus/
+LazyVim — https://github.com/LazyVim/lazyvim.github.io/blob/db7f1bd035de3f41a75a29f65f36819f6ac152af/static/img/icon.svg
+Leaflet — https://github.com/Leaflet/Leaflet/blob/d843c3b88486713827d7e860b58bdba75bfbd5a2/src/images/logo.svg
+Lefthook — https://github.com/evilmartians/lefthook/blob/c44511f070ef2785fecb215862c4f2ff1ed8dccb/logo_sign.svg
+Lens — https://github.com/lensapp/lens/blob/3cc12d9599b655a366e7a34c356d2a84654b2466/docs/img/lens-logo-icon.svg
+Leptos — https://github.com/leptos-rs/leptos/blob/6fac92cb6298f1bfa72464de47e33e47b5e5857d/logos/Simple_Icon.svg
+Less — https://github.com/less/logo/blob/c9c10c328cfc00071e92443934b35e389310abf8/less_logo.ai
+Libraries.io — https://github.com/librariesio/libraries.io/blob/9ab0f659bb7fe137c15cf676612b6811f501a0bd/public/safari-pinned-tab.svg
+LibreOffice Base — https://github.com/LibreOffice/help/blob/e3b1cce7dde7e964c7670dd24a167e750654685a/source/media/navigation/libo-base.svg
+LibreOffice Calc — https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-calc.svg
+LibreOffice Draw — https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-draw.svg
+LibreOffice Impress — https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-impress.svg
+LibreOffice Math — https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-math.svg
+LibreOffice Writer — https://github.com/LibreOffice/help/blob/02faeab6e7b014ca97a8c452e829af4522dadfc8/source/media/navigation/libo-writer.svg
+LibreTube — https://github.com/libre-tube/libre-tube.github.io/blob/e5e10090cab71ee7c0abdfbf2789977025733eb7/assets/icons/icon.svg
+libuv — https://github.com/libuv/libuv/blob/e4087dedf837f415056a45a838f639a3d9dc3ced/img/logos.svg
+Lighthouse — https://github.com/GoogleChrome/lighthouse/blob/80d2e6c1948f232ec4f1bdeabc8bc632fc5d0bfd/assets/lh_favicon.svg
+Lightning — https://github.com/Lightning-AI/lightning/blob/a584196abf820179adb0758ef67ddae91c44e7bc/docs/source/_static/images/icon.svg
+Linux Containers — https://github.com/lxc/linuxcontainers.org/blob/29d3299ddf8718099b6de1464570fbbadbaabecb/static/img/containers.svg
+Linux Mint — https://github.com/linuxmint/brand-logo/blob/540ac3b08e987866d77a340f557f994c988ac2ae/ring-mono-green.svg
+LinuxServer — https://github.com/linuxserver/docker-documentation/blob/be0a78849bc87dec372721ffd6f267527d07815d/docs/assets/icon.svg
+Lit — https://github.com/lit/lit.dev/blob/5e59bdb00b7a261d6fdcd6a4ae529e17f6146ed3/packages/lit-dev-content/site/images/flame-favicon.svg
+Lobsters — https://github.com/lobsters/lobsters/blob/dcd56c1d3f7190e33a73b86b77e7feb2665ddc50/app/assets/images/logo-color.svg
+LocalSend — https://github.com/localsend/localsend/blob/f57cae55616e6d2f0ab20cad41e0697cba7885e5/app/assets/img/logo-512.png
+Locust — https://github.com/locustio/locust/blob/2c8f587a60a0c5b0bb27ee395b0d1ca5149ca6f2/locust/webui/src/assets/Logo.tsx
+Lodash — https://github.com/lodash/lodash.com/blob/c8d41c62b446f08905fd94802db4da8da05d3e92/assets/img/lodash.svg
+Logseq — https://github.com/logseq/logseq/blob/c4d15ec8487c9fb6b6f41780fc1abddab89491e4/resources/icon.png
+Longhorn — https://github.com/longhorn/website/blob/9da045e3527e6f4655dea456837baf656763e92e/static/img/icon-longhorn.svg
+Luau — https://github.com/luau-lang/site/blob/96af82d9c8a22f337908676facf999310f4d87ba/logo.svg
+Ludwig — https://github.com/ludwig-ai/ludwig-docs/blob/8d8abb2117a93af2622a6545943c773b27153e1b/docs/images/ludwig_icon.svg
+Lutris — https://github.com/lutris/lutris/blob/f62feaef063868cb39afddefbb9ba7a5928bd978/share/icons/hicolor/scalable/apps/lutris.svg
+MacPorts — https://github.com/macports/macports-www/blob/8de17ad57e97d5ff87b16c084cef36059fa6c2f4/img/macports-avatar.svg
+Magisk — https://github.com/topjohnwu/Magisk/blob/23ad611566b557f26d268920692b25aa89fc0070/app/src/main/res/drawable/ic_magisk.xml
+Mamba UI — https://github.com/Microwawe/mamba-ui/blob/b4ca2eba570c451886e5822d7ba12a8d78015bba/src/assets/svg/logo.svg
+Mantine — https://github.com/mantinedev/mantine/blob/f2da0287bfcda19dcf7866f4d03a05d1ee7b49f7/docs/src/images/logo.svg
+MapLibre — https://github.com/maplibre/maplibre-gl-js-docs/blob/e916a4cdd671890126f88b26b2b16c04220dc4b0/docs/pages/assets/favicon/maplibregl-favicon.svg
+Markdown — https://github.com/dcurtis/markdown-mark/tree/360a3657fef7f6ad0b303296a95ad52985caa0d3
+Marko — https://github.com/marko-js/website/blob/c03b8229e8fe8e01fde6c0772bc1cb0ceae9be05/src/logos/marko.svg
+mastercomfig — https://github.com/mastercomfig/mastercomfig.github.io/blob/d910ce7e868a6ef32106e36996c3473d78da2ce3/img/mastercomfig_logo.svg
+Mastodon — https://github.com/mastodon/mastodon/blob/7ccf7a73f1c47a8c03712c39f7c591e837cf6d08/app/javascript/images/logo-symbol-icon.svg
+Material for MkDocs — https://github.com/squidfunk/mkdocs-material/blob/9ff75d11838cc01615697884c0eb9eb55f4652ad/src/templates/.icons/logo-monochrome.svg
+mdBook — https://github.com/rust-lang/mdBook/blob/cdfa5ad9909e2cba8390688f3f0686fb70cb4bef/src/theme/favicon.svg
+MDN Web Docs — https://github.com/mdn/yari/blob/77e6cda02f7013219e9da27a00b9424085e60fdb/client/src/assets/mdn-logo.svg
+MDX — https://github.com/mdx-js/mdx/blob/b8a76c95deb14f7297bafdac1aa3eddd2b0fbb8f/docs/_static/icon.svg
+Mealie — https://github.com/mealie-recipes/mealie.io/blob/5519cac801c116a5688c63d8126c3bf1ce568c58/components/App/Toolbar.vue
+Medusa — https://github.com/medusajs/medusa/blob/5b91a3503af41b94697a5c27c35268c29e9bd135/www/docs/static/img/logo.svg
+Mermaid — https://github.com/mermaid-js/mermaid/blob/f5bd1e08098fa688ef889e73c8b06696e75e62d8/docs/public/mermaid-logo.svg
+Metasploit — https://github.com/rapid7/metasploit-framework/blob/f8bd7dfd834354c9a2e2c03e1d9f5d53f8881954/docs/assets/images/favicon.png
+Micro Editor — https://github.com/zyedidia/micro/blob/48645907ec55798b75723019dad75dba51bd97d7/assets/micro-logo-mark.svg
+Mihon — https://github.com/mihonapp/mihon/blob/0cb1925cf158155665f3173bccb93f39d84b71e0/app/src/main/res/drawable/ic_mihon.xml
+Milvus — https://github.com/milvus-io/artwork/blob/e30bffa2b0632b0d4cefcdd4e1a2c09fee5b0d28/icon/black/milvus-icon-black.svg
+MiniMax — https://github.com/MiniMax-AI/MiniMax-01/blob/57cf223b177e99636c7711a0f179e9fdc9c38e8a/figures/minimax.svg
+MLflow — https://github.com/mlflow/mlflow/blob/855881f93703b15ffe643003fb4d7c84f0ec2502/assets/icon.svg
+MobX — https://github.com/mobxjs/mobx/blob/248e25e37af31c2e71ff452bc662a85816fa40d8/docs/assets/mobservable.svg
+MobX-State-Tree — https://github.com/mobxjs/mobx-state-tree/blob/666dabd60a7fb87faf83d177c14f516481b5f141/website/static/img/mobx-state-tree-logo.svg
+Mock Service Worker — https://github.com/mswjs/msw/blob/9c53bd23040307d41b5b0b7cec1bf3a05950dbc8/media/msw-logo-black.svg
+Model Context Protocol — https://github.com/modelcontextprotocol/docs/blob/573dc60c2e7aab2605b29d0bf27194aa7b02e4fb/logo/light.svg
+Modrinth — https://github.com/modrinth/art/blob/d5ab4f965b0b4cea7201967483885ecd8d04a562/Branding/Favicon/favicon.svg
+Mongoose — https://github.com/Automattic/mongoose/blob/7971a4dbd55888f0b005e65b06024109af8352f7/docs/images/mongoose.svg
+Monica — https://github.com/monicahq/monica/blob/d7886cc6fd11388a95b7504e1a5363ecc7ad9a59/public/img/monica.svg
+Monkeytype — https://github.com/monkeytypegame/monkeytype/blob/20a08d27ead851bbfd5ac557b4ea444ea8bddd79/frontend/static/html/top.html
+Moq — https://github.com/devlooped/moq/blob/1f31df466bf5513b32ef0a0338e242bc51180c7f/assets/img/moq-icon.png
+mpv — https://github.com/mpv-player/mpv/blob/da400ed3a9b54408d1b5112855a7281380a1ef52/etc/mpv.svg
+MUI — https://github.com/mui-org/material-ui/blob/353cecb5391571163eb6bd8cbf36d2dd299aaf56/docs/src/icons/SvgMuiLogo.tsx
+Mumble — https://github.com/mumble-voip/mumble/blob/d40a19eb88cda61084da245a1b6cb8f32ef1b6e4/icons/mumble_small.svg
+Nano Stores — https://github.com/nanostores/nanostores/blob/7fb5cd871fa00f484ebc866fdf330b56cab2aa20/img/logo-auto.svg
+NATS.io — https://github.com/cncf/artwork/blob/88bc5e7a0cc7f3770ba6edddc92e1ab8a6006171/projects/nats/icon/black/nats-icon-black.svg
+Neutralinojs — https://github.com/neutralinojs/design-guide/blob/52a7232598ff22cddd810a3079e09a2cc2892609/logo/neutralinojs_logo_vector.svg
+NewPipe — https://github.com/TeamNewPipe/NewPipe/blob/f3858e70a3af90b0ad3c6731482924567ec807f9/.idea/icon.svg
+NextDNS — https://github.com/simple-icons/simple-icons/pull/9150#issuecomment-1856317201
+Nextflow — https://github.com/seqeralabs/logos/blob/a8d4906b8fa7359541e520882f93a4bf029af44c/nextflow/nextflow_icon_color.svg
+nf-core — https://github.com/nf-core/logos/blob/c9c0e328d2a1b2b584a017d97cae0921ab998299/nf-core-logos/nf-core-logo-square-mono.svg
+Nginx Proxy Manager — https://github.com/NginxProxyManager/nginx-proxy-manager/blob/2a06384a4aa597777931d38cef49cf89540392e6/docs/.vuepress/public/logo.svg
+NodeBB — https://github.com/NodeBB/assets/blob/c59a6d8db0d1be9b2666419e49b330d7b780f2b3/bb-svg/bb.svg
+NodeGui — https://github.com/nodegui/nodegui/blob/740a371981b555e94d4e7aaa734a80532cecfb16/extras/logo/nodegui.svg
+Normalize.css — https://github.com/necolas/normalize.css/blob/3a60304f90870c6087d226f53e02a7523c907a35/logo.svg
+Notesnook — https://github.com/streetwriters/notesnook/blob/20bbb6dd5b8d9fa0b3924f20d315babe0e3f6173/apps/web/public/favicon.svg
+NSIS — https://github.com/idleberg/nsis-logo/blob/885ba2fd08a6ff450c6f7cbd675563b5df728d38/src/Logo/below%2024x24/mono-flat.svg
+NuGet — https://github.com/NuGet/Media/blob/89f7c87245e52e8ce91d94c0a47f44c6576e3a0d/Images/MainLogo/Vector/nuget.svg
+Numba — https://github.com/numba/numba/blob/0db8a2bcd0f53c0d0ad8a798432fb3f37f14af27/docs/_static/numba-blue-icon-rgb.svg
+Nunjucks — https://github.com/mozilla/nunjucks/blob/fd500902d7c88672470c87170796de52fc0f791a/docs/img/favicon.png
+Nushell — https://github.com/nushell/nushell/blob/3016d7a64ccb2c2eac9f735f6144fc896ea724a5/assets/icons/nushell-original.png
+nvm — https://github.com/nvm-sh/logos/blob/bf1f9618e83e5098024b18c73ada1b0f542db5f8/nvm-logo-black.svg
+Obtainium — https://github.com/ImranR98/Obtainium/blob/e5afe7521347c73382534a013c070b9c1da716c5/assets/graphics/icon.svg
+oclif — https://github.com/oclif/oclif.github.io/blob/2356a96dbaf0d3791ec2ddce3b08ccd78408e0a0/website/static/img/oclif.svg
+OctoPrint — https://github.com/OctoPrint/OctoPrint/blob/53b9b6185781c07e8c4744a6e28462e96448f249/src/octoprint/static/img/mask.svg
+Odin — https://github.com/odin-lang/artwork/blob/5f887a73f3cc5a4b61971ec15854ae456b886426/logo/emblem-without-background.svg
+Ollama — https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922
+ONNX — https://github.com/onnx/onnx.github.io/blob/382e7036b616ce1555499ac41730245a2478513c/images/ONNX-ICON.svg
+Open Containers Initiative — https://github.com/opencontainers/artwork/blob/d8ccfe94471a0236b1d4a3f0f90862c4fe5486ce/oci/icon/black/oci-icon-black.svg
+Open3D — https://github.com/isl-org/Open3D/blob/2ae042aa74ad3917afd891e36798ffe687513662/cpp/apps/Open3DViewer/icon.svg
+OpenBao — https://github.com/openbao/artwork/blob/8f75904040f9ca4fcba2b7a46581ecee536315b5/black/openbao-single-black.svg
+OpenCode — https://github.com/anomalyco/opencode/blob/1251a870cb384543c150c4a72fb101b55eec971b/packages/identity/mark.svg
+OpenJS Foundation — https://github.com/openjs-foundation/artwork/blob/270575392800eb17a02612203f6f0d5868c634a7/openjs_foundation/openjs_foundation-icon-black.svg
+Openlayers — https://github.com/openlayers/openlayers.github.io/blob/5b93e18b8d302eb49a812fb96abb529895ceb7a2/assets/logo.svg
+openmediavault — https://github.com/openmediavault/openmediavault/blob/12f8ef70f19f967733b744d6fb6156a4181f1ddc/deb/openmediavault/workbench/src/favicon.svg
+openSUSE — https://github.com/openSUSE/artwork/blob/33e94aa76837c09f03d1712705949b71a246a53b/logos/buttons/button-colour.svg
+OpenTofu — https://github.com/opentofu/brand-artifacts/blob/0d4d0d6050ca0ff06471400bc3249a64c145f659/symbol-only/transparent/SVG/on-light-mono.svg
+OpenTUI — https://github.com/anomalyco/opentui/blob/5969eee9b44b16a64a77ffa917e98daf08bb44f9/packages/web/public/favicon.svg
+Openverse — https://github.com/WordPress/openverse/blob/5db2545d6b73ec4aa5e908822683ee9d18af301d/brand/icon.svg
+OPNsense — https://github.com/opnsense/core/blob/f4b69b9b565d2747eb40d7d23e060f4a3c81a071/src/opnsense/www/themes/opnsense/build/images/icon-logo.svg
+Optimism — https://github.com/ethereum-optimism/brand-kit/blob/71ea3bb1ea24e87968804b388e99bed0b52e2a4b/assets/svg/Profile-Logo.svg
+Optuna — https://github.com/optuna/optuna-dashboard/blob/b45523d328ef4796306dd64a93f27ff37c9a36b7/jupyterlab/img/optuna_logo.svg
+OSF — https://github.com/CenterForOpenScience/osf.io/blob/de170682924278eba1db9d6e1c50166bf43700e0/website/static/img/circle_logo.png
+OsmAnd — https://github.com/osmandapp/OsmAnd-misc/blob/9ec3bacebf580d0862ded5813a4aa934d0862302/logo/osmand/symbol_osmand.svg
+OSMC — https://github.com/osmc/website/tree/e7d0d8002660c979ae5119e28d1c69c893ac9f76/content/themes/osmc/assets/img/logo
+OWASP — https://github.com/OWASP/www-event-2020-07-virtual/blob/eefbef6c1afdd1dee2af11e7f44ad005b25ad48c/assets/images/logo.svg
+OWASP Dependency-Check — https://github.com/jeremylong/DependencyCheck/blob/8ee82149179c6faeca78727e57039e987c387e26/src/site/resources/images/logo.svg
+Oxc — https://github.com/voidzero-dev/community-design-resources/blob/55902097229cf01cf2a4ceb376f992f5cf306756/brand-assets/oxc/oxc-icon-color-bracketless.svg
+Packagist — https://github.com/composer/packagist/issues/1147#issuecomment-747951608
+Palantir — https://github.com/palantir/conjure/blob/1b0d450dc52c4822b4c9d1da8c61ad7f78855fe5/docs/media/palantir-logo.svg
+Pandoc — https://github.com/tarleb/pandoc-logo/blob/1c547bbfaefa7e842c67e617775a44bc2342db8e/pandoc.svg
+Pangolin — https://github.com/fosrl/pangolin/blob/b4c01349d19c65c60b189c735a3e3f7e9ab8f9f0/public/logo/pangolin_orange.svg
+Paperless-ngx — https://github.com/paperless-ngx/paperless-ngx/blob/e16645b146da24f07004eb772a455450354a37a7/resources/logo/web/svg/square.svg
+Parrot Security — https://gitlab.com/parrotsec/project/documentation/-/blob/d1d426b9cb3ea0efd16a2b34056c1ebb21bb9af9/static/img/parrot-logo.svg
+PDM — https://github.com/pdm-project/pdm/blob/68abaae63e8d8fc8eb0c101285fd7dcb5cd9798a/docs/docs/assets/logo.svg
+Perl — https://github.com/metacpan/perl-assets/blob/56b555711934dde8fd0b20ec29ecc3bf81a3d493/blessed/src/010.svg
+Phabricator — https://github.com/phacility/phabricator/blob/0a3093ef9c1898913196564435346e4daa9d2538/webroot/rsrc/image/logo/light-eye.png
+Phoenix Framework — https://github.com/phoenixframework/phoenix/blob/e9f1975d5aa15bee22bab6a4acae8f543886b17a/installer/templates/phx_assets/logo.svg
+Photopea — https://github.com/photopea/photopea/blob/d5c532e8ad8ece246e2ea8646aac7df768407c64/logo.svg
+phpMyAdmin — https://github.com/phpmyadmin/data/blob/b7d3bdb9bb973beff4726541b87d3a4c8a950b4b/brand/phpMyAdmin-Logo-Symbol.svg
+Pine Script — https://github.com/tradingview/documentation-guidelines/blob/0d7a2d014818ebdd03540c5fd7b97fe493cd056c/images/pine/PineScript_logo.svg
+pino — https://github.com/pinojs/pino/blob/bb31ed77568959670cce62ca2847234b3f2cb87f/pino-tree.png
+Piped — https://github.com/TeamPiped/Piped/blob/71a3742f18893b87cad15e832855bd2bd7c2b557/public/img/icons/logo.svg
+pipx — https://github.com/pypa/pipx/blob/fc9c95349cfcec1d886c26b70329257de53e10cb/logo.svg
+Piwigo — https://github.com/Piwigo/piwigodotorg/blob/6edb840c16257314caec770a9a51f67ef81836e4/images/piwigo.org.svg
+Platzi — https://github.com/PlatziDev/oss/blob/932bd83d43e061e1c38fbc116db31aa6d0145be6/static/logo.svg
+Plausible Analytics — https://github.com/plausible/docs/blob/be5c935484e075f1e0caf3c9b3351ddd62348139/static/img/logo.svg
+PocketBase — https://github.com/pocketbase/pocketbase/blob/4b64e0910b7dc527ff3de8cdacec074e40449e2e/ui/dist/images/logo.svg
+Polymer Project — https://github.com/Polymer/polymer-project.org/blob/3d3e967446858b49a7796676714865ac9b2a5275/app/images/logos/p-logo.svg
+Pop!_OS — https://github.com/system76/brand/blob/7a31740b54f929b62a165baa61dfb0b5164261e8/Pop_OS%20branding/Pop_icon.svg
+PortableApps.com — https://github.com/simple-icons/simple-icons/pull/12366#issuecomment-2551561301
+pre-commit — https://github.com/pre-commit/pre-commit.com/blob/f263cdbcf46f97e1bd6229f2ab6d27bf8290ca88/logo.svg
+prek — https://github.com/j178/prek/blob/414d0cc088431f0ec268b82c51458ca39b538cd7/docs/assets/badge-v0.json
+Presto — https://github.com/prestodb/presto/blob/414ab2a6bbdcca6479c2615b048920adac34dd20/presto-docs/src/main/resources/logo/web/fb/dark-blue/Presto_FB_Lockups_DARKBLUE_BG-14.svg
+Prettier — https://github.com/prettier/prettier-logo/blob/06997b307e0608ebee2044dafa0b9429d6b5a103/images/prettier-icon-clean-centred.svg
+Prisma — https://github.com/prisma/presskit/tree/4bcb64181f266723439d955d60afa1c55fefa715
+Probot — https://github.com/probot/probot/blob/5d29945dd2116618d63aba9d7a4460b940a85f5d/static/robot.svg
+ProseMirror — https://github.com/ProseMirror/prosemirror/blob/e30c5109570a6c05abab853c29920eb614dd8e35/assets/prosemirror_light.svg
+Protractor — https://github.com/angular/protractor/blob/4bc80d1a459542d883ea9200e4e1f48d265d0fda/logo.svg
+Pterodactyl — https://github.com/pterodactyl/panel/blob/eaf46429f2a001469fb5f18f7891ce8e5be7f049/public/favicons/favicon-96x96.png
+Pug — https://github.com/pugjs/pug-logo/blob/61429fc45b5a411b83bdb5c99a61084d3054d1e6/SVG/pug-final-logo_-mono-64.svg
+PureScript — https://github.com/purescript/logo/tree/1e7a57affdaeaf88ff594c08bd2b5a78fe2ed13c
+PurgeCSS — https://github.com/FullHuman/purgecss/blob/4e2bf58e218119cc9faf9faa615d62a059bf9d9a/docs/.vuepress/public/safari-pinned-tab.svg
+PWA — https://github.com/webmaxru/progressive-web-apps-logo/blob/77744cd5c0a4d484bb3d082c6ac458c44202da03/pwalogo-white.svg
+PyCQA — https://github.com/PyCQA/meta/blob/ac828d8d7eb55501addefb0ceb6496ab15e85ca5/logo/pycqa1-02.svg
+Pydantic — https://github.com/pydantic/pydantic/blob/94c748001a32992a587694b999fb1f3d2f1fc1fe/docs/logo-white.svg
+PyG — https://github.com/pyg-team/pyg_sphinx_theme/blob/4f696513b4b4adf2ba3874574a10a8e8718672fe/pyg_sphinx_theme/static/img/pyg_logo.svg
+PyScaffold — https://github.com/pyscaffold/pyscaffold/blob/3f72bf7894fc73b34af06a90bb5d43aae410ce5d/docs/gfx/logo.svg
+PySyft — https://github.com/OpenMined/openmined-website/blob/db5c223657c8c49ab1ee8db2841fe802f73af31c/src/containers/app/components/repo-icon/assets/syft.svg
+Pytest — https://github.com/pytest-dev/design/blob/081f06cd2d6cd742e68f593560a2e8c1802feb7c/pytest_logo/pytest_logo.svg
+PyTorch — https://github.com/pytorch/pytorch.github.io/blob/8f083bd12192ca12d5e1c1f3d236f4831d823d8f/assets/images/logo.svg
+qbittorrent — https://github.com/qbittorrent/qBittorrent/blob/73028f9930d9ab9d89edb60ed4aedb66d75669d9/src/icons/qbittorrent-tray-light.svg
+QMK — https://github.com/qmk/qmk.fm/blob/1c3cf365e734a1fb551ccfb7ade6e210ae86e774/src/public/qmk-logo-light.svg
+Quad9 — https://github.com/Quad9DNS/documentation/blob/185e1289a33781e23ccea6c952f14e9b8c69234e/docs/images/favicon.svg
+Quarto — https://github.com/quarto-dev/quarto-web/blob/fd2a993e3274b3433a0088d5daf85080bdf68d71/quarto-icon.svg
+Quasar — https://github.com/quasarframework/quasar-art/blob/6300e95687a923cd027dc4b8c356dd4e0cea618f/Brand/Logo/RGB/Icon/Monochrome/Cold%20Black/QUASAR_icon_mono_cold_black_RGB.svg
+Qubes OS — https://github.com/QubesOS/qubes-attachment/blob/ed7e552eb8a5fca4e099361d137793d3551b3968/icons/qubes-logo-home.svg
+QuickLook — https://github.com/QL-Win/QuickLook/blob/f726841d99bbceafd5399e5777b4dba302bf1e51/QuickLook/Resources/app.svg
+quicktype — https://github.com/glideapps/quicktype-xcode/blob/2f9a8d2ef2466358341142c3881d54e065b30a8c/media/logo.svg
