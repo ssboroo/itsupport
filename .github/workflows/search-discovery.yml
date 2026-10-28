@@ -1,0 +1,24 @@
+name: Notify search engines after production deployment
+on:
+  push:
+    branches: [main]
+    paths: ['app/**', 'lib/seo.ts', 'lib/services.ts', 'components/**', 'public/**', 'scripts/notify-indexnow.mjs', '.github/workflows/search-discovery.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: production-search-discovery
+  cancel-in-progress: true
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Wait for this release, verify public URLs, and notify IndexNow
+        env:
+          EXPECTED_SHA: ${{ github.sha }}
+        run: node scripts/notify-indexnow.mjs
