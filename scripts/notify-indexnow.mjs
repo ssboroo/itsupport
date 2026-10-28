@@ -20,7 +20,7 @@ const urlList = [...new Set([...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m 
 if (!urlList.length || urlList.length > 10000) throw new Error('Invalid sitemap size');
 for (const url of urlList) {
   const parsed = new URL(url);
-  if (parsed.origin !== origin || parsed.search || !/^\/(?:services(?:\/[a-z-]+)?)?$/.test(parsed.pathname)) throw new Error(`Unexpected sitemap URL: ${url}`);
+  if (parsed.origin !== origin || parsed.search || !/^\/(?:business|services(?:\/[a-z-]+)?)?$/.test(parsed.pathname)) throw new Error(`Unexpected sitemap URL: ${url}`);
   const page = await get(url);
   if (/<meta[^>]*name="robots"[^>]*content="[^"]*noindex/i.test(page)) throw new Error(`Noindex page: ${url}`);
 }
