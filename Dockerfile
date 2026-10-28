@@ -1,4 +1,5 @@
 FROM node:24-bookworm-slim AS build
+ARG RAILWAY_GIT_COMMIT_SHA
 WORKDIR /source
 COPY . .
 RUN node scripts/prepare-railway.mjs
