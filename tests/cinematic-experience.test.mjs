@@ -25,3 +25,14 @@ test('scroll reveals are responsive and respect reduced-motion preferences', () 
   assert.match(css, /@media\s*\(prefers-reduced-motion:\s*reduce\)/);
   assert.match(css, /@media\s*\(max-width:\s*800px\)/);
 });
+
+
+test('homepage receives a distinct premium visual system and service proof points', async () => {
+  const styles = await readFile(new URL('../app/cinematic.css', import.meta.url), 'utf8');
+  assert.match(styles, /\.hero\.cinematic-reveal::before/);
+  assert.match(styles, /\.hero-proof/);
+  assert.match(styles, /\.card:hover/);
+  assert.match(styles, /\.contactbanner\.cinematic-reveal/);
+  assert.match(app, /className="hero-proof"/);
+  assert.match(app, /Дэлхийн хаанаас ч/);
+});
