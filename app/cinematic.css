@@ -1,0 +1,272 @@
+/* RAINY IT — cinematic scrollytelling layer.
+   Progressive enhancement only: the existing content and booking flow remain usable
+   when scroll-driven animations are unsupported or reduced motion is requested. */
+
+.cinematic-scroll-progress {
+  position: fixed;
+  inset: 0 auto auto 0;
+  z-index: 100;
+  width: 100%;
+  height: 3px;
+  pointer-events: none;
+  transform: scaleX(0);
+  transform-origin: left center;
+  background: linear-gradient(90deg, #35b8ff 0%, #075bff 55%, #6c8dff 100%);
+  box-shadow: 0 0 16px #0875ff55;
+}
+
+header {
+  isolation: isolate;
+  overflow: visible;
+}
+
+.hero.cinematic-reveal {
+  min-height: clamp(430px, 54vw, 650px);
+  margin-top: 16px;
+  padding: clamp(32px, 5vw, 72px);
+  border: 1px solid #dcecff;
+  border-radius: 28px;
+  background:
+    radial-gradient(ellipse at 78% 25%, #d7edff 0, transparent 38%),
+    radial-gradient(ellipse at 5% 100%, #e5f1ff 0, transparent 48%),
+    linear-gradient(118deg, #f8fcff 0%, #eef6ff 48%, #e7f2ff 100%);
+  box-shadow: 0 28px 90px #1b66b00d, inset 0 1px #fff;
+}
+
+.hero.cinematic-reveal::after {
+  content: "";
+  position: absolute;
+  inset: 16px;
+  border: 1px solid #ffffffa8;
+  border-radius: 20px;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.hero .eyebrow {
+  background: #e0efff;
+  border: 1px solid #d3e8ff;
+}
+
+.hero h1 {
+  max-width: 680px;
+  font-size: clamp(2.65rem, 4.4vw, 4.15rem);
+  line-height: 1.08;
+  letter-spacing: -.065em;
+  text-wrap: balance;
+}
+
+.hero h1 em {
+  background: linear-gradient(105deg, #087cff 0%, #1246d9 68%, #547dff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hero-worldwide {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  max-width: 420px;
+  margin: 22px 0 25px;
+  padding: 13px 16px;
+  border: 1px solid #d8eaff;
+  border-radius: 14px;
+  background: #ffffffb8;
+  box-shadow: 0 12px 32px #1c63ad0b;
+  backdrop-filter: blur(12px);
+}
+
+.hero-worldwide > span {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
+  place-items: center;
+  border-radius: 12px;
+  color: #0874ff;
+  background: linear-gradient(145deg, #e8f4ff, #d9ebff);
+}
+
+.hero-worldwide strong,
+.hero-worldwide small {
+  display: block;
+}
+
+.hero-worldwide strong {
+  color: #15366c;
+  font-size: 12px;
+  letter-spacing: -.2px;
+}
+
+.hero-worldwide small {
+  margin-top: 4px;
+  color: #6782a8;
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.heroactions .dark {
+  box-shadow: 0 12px 25px #086aff2b;
+}
+
+.helpdesk-hero {
+  filter: drop-shadow(0 24px 35px #145ca51a);
+}
+
+.helpdesk-art img {
+  transform: translateZ(0);
+  filter: saturate(1.06) contrast(1.02);
+}
+
+.business-banner {
+  border-radius: 20px;
+  box-shadow: 0 16px 42px #0a61bc0b;
+}
+
+#services.cinematic-reveal {
+  padding-top: clamp(42px, 6vw, 76px);
+  padding-bottom: clamp(38px, 5vw, 64px);
+}
+
+#services .sectionhead {
+  margin-bottom: 26px;
+}
+
+#services .sectionhead h2,
+.how h2,
+.prepare h2 {
+  letter-spacing: -.055em;
+  text-wrap: balance;
+}
+
+#services .card {
+  min-height: 205px;
+  border-radius: 17px;
+  box-shadow: 0 8px 26px #13569a08;
+}
+
+#services .card:hover {
+  box-shadow: 0 22px 48px #075fff17;
+}
+
+.how.cinematic-reveal {
+  position: relative;
+  overflow: hidden;
+  margin-top: 30px;
+  padding: clamp(28px, 4vw, 52px);
+  border: 1px solid #d9eaff;
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 100% 0, #d9ebff 0, transparent 35%),
+    linear-gradient(125deg, #f1f8ff 0%, #e8f3ff 100%);
+}
+
+.how.cinematic-reveal::after {
+  content: "01 — 03";
+  position: absolute;
+  right: 34px;
+  top: 24px;
+  color: #8db7e8;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .18em;
+}
+
+.contactbanner.cinematic-reveal {
+  border-radius: 22px;
+  box-shadow: 0 22px 55px #064cb51a;
+}
+
+.prepare.cinematic-reveal {
+  padding-top: clamp(42px, 6vw, 76px);
+}
+
+.prepareheading h2 em {
+  color: #0874ff;
+}
+
+.toolcard {
+  border-radius: 18px;
+  box-shadow: 0 14px 38px #0d5ba20b;
+}
+
+.cinematic-reveal {
+  will-change: auto;
+}
+
+@supports (animation-timeline: view()) {
+  .cinematic-reveal {
+    animation: rainy-cinematic-enter linear both;
+    animation-timeline: view();
+    animation-range: entry 0% cover 24%;
+  }
+
+  @keyframes rainy-cinematic-enter {
+    from {
+      opacity: .35;
+      transform: translate3d(0, 28px, 0) scale(.992);
+    }
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+  }
+}
+
+@supports (animation-timeline: scroll()) {
+  .cinematic-scroll-progress {
+    animation: rainy-scroll-progress linear both;
+    animation-timeline: scroll(root);
+  }
+
+  @keyframes rainy-scroll-progress {
+    to { transform: scaleX(1); }
+  }
+}
+
+@media (max-width: 800px) {
+  .hero.cinematic-reveal {
+    min-height: 0;
+    margin-top: 8px;
+    padding: 28px 20px 18px;
+    border-radius: 0 0 20px 20px;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.25rem, 9vw, 3rem);
+    letter-spacing: -.06em;
+  }
+
+  .hero-worldwide {
+    margin: 18px 0;
+    padding: 11px;
+  }
+
+  .how.cinematic-reveal {
+    margin-top: 12px;
+    padding: 25px 20px;
+    border-radius: 17px;
+  }
+
+  .how.cinematic-reveal::after {
+    display: none;
+  }
+
+  .contactbanner.cinematic-reveal {
+    border-radius: 17px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cinematic-scroll-progress {
+    display: none;
+    animation: none !important;
+  }
+
+  .cinematic-reveal {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
