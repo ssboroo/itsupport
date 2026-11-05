@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 
-const css = await readFile(new URL('../app/globals.css', import.meta.url), 'utf8');
+const css = await readFile(new URL('../app/cinematic.css', import.meta.url), 'utf8');
 const app = await readFile(new URL('../components/support-app.tsx', import.meta.url), 'utf8');
 
 test('cinematic scroll progress is present without replacing the existing header', () => {
@@ -12,7 +12,7 @@ test('cinematic scroll progress is present without replacing the existing header
 });
 
 test('existing customer journeys remain in the homepage experience', () => {
-  for (const selector of ['id="services"', 'id="how"', 'id="prepare"', 'className="contactbanner"']) {
+  for (const selector of ['id="services"', 'id="how"', 'id="prepare"', 'className="contactbanner']) {
     assert.ok(app.includes(selector), `Missing existing customer journey: ${selector}`);
   }
   assert.match(app, /openBooking\(/);
