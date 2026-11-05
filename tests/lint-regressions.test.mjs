@@ -27,3 +27,10 @@ test('preferences initialize from persisted values without an effect-driven stat
   assert.doesNotMatch(source, /useEffect\(\(\)=>\{try\{const l=localStorage/);
   assert.match(source, /useState<Language>\(\(\)=>/);
 });
+
+test('Viber clipboard handler passes a narrowed phone string to the Clipboard API', async () => {
+  const source = await read('../components/support-app.tsx');
+  assert.doesNotMatch(source, /writeText\(config\.viberPhone\)/);
+  assert.match(source, /const viberPhone\s*=\s*config\.viberPhone/);
+  assert.match(source, /writeText\(viberPhone\)/);
+});
