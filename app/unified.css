@@ -44,3 +44,40 @@ fieldset{min-width:0;margin:0;padding:0;border:0}
 [data-theme="dark"] .mobilechannels{background:#17231eeb;border-color:var(--line)}
 [data-theme="dark"] .mobilechannels button{background:#2b4337}
 [data-theme="dark"] .contactmodal{background:var(--surface)}
+
+/* Software catalogue marquee */
+.seo-home-link{padding:0 0 12px;color:var(--green-2);font-size:10px;font-weight:800}
+.seo-home-link a{display:inline-flex;padding:8px 0}
+.software-showcase{margin:22px 0 34px;padding:23px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);overflow:hidden}
+.software-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:15px}
+.software-heading h2{margin:6px 0 3px;font-family:'Plus Jakarta Sans',sans-serif;font-size:23px;letter-spacing:-.06em}
+.software-heading p{margin:0;color:#7c8880;font-size:10px}
+.marquee-pause{display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--green-2)}
+.software-rows{display:grid;gap:8px;overflow:hidden;mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+.software-row{overflow:hidden}
+.software-track{display:flex;width:max-content;animation:software-drift 58s linear infinite}
+.software-row.row-1 .software-track{animation-direction:reverse;animation-duration:66s}
+.software-showcase.is-paused .software-track{animation-play-state:paused}
+.software-group{display:flex;gap:8px;padding-right:8px}
+.software-chip{display:inline-flex;align-items:center;gap:8px;min-width:125px;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.software-logo{display:grid;place-items:center;width:23px;height:23px;flex:0 0 23px}
+.software-logo svg{width:100%;height:100%;fill:currentColor}
+.software-chip b{font-size:10px;font-weight:750;white-space:nowrap}
+@keyframes software-drift{to{transform:translateX(-50%)}}
+.business-banner{display:flex;align-items:center;justify-content:space-between;gap:25px;margin:26px 0;padding:24px;border:1px solid var(--line);border-radius:13px;background:#ecefe7}
+.business-banner h2{margin:8px 0;font-family:'Plus Jakarta Sans',sans-serif;font-size:23px;letter-spacing:-.055em}
+.business-banner p{margin:6px 0;color:#748078;font-size:10px;line-height:1.7}
+.business-banner .seo-cta{flex:0 0 auto;margin:0}
+.telegram-notice{color:var(--green-2)!important}
+@media(max-width:760px){
+.software-showcase{margin:14px 0 24px;padding:17px 0}
+.software-heading h2{font-size:20px}
+.software-chip{min-width:112px;padding:8px 10px}
+.business-banner{display:grid;gap:12px;margin:18px 0;padding:17px}
+.business-banner h2{font-size:19px}
+.business-banner .seo-cta{width:100%}
+}
+[data-theme="dark"] .software-showcase{border-color:var(--line)}
+[data-theme="dark"] .software-chip,[data-theme="dark"] .marquee-pause{background:var(--surface);border-color:var(--line);color:var(--ink)}
+[data-theme="dark"] .business-banner{background:#202e27;border-color:var(--line)}
+[data-theme="dark"] .business-banner h2{color:var(--ink)}
