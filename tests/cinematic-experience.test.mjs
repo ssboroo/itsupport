@@ -34,5 +34,9 @@ test('homepage receives a distinct premium visual system and service proof point
   assert.match(styles, /\.card:hover/);
   assert.match(styles, /\.contactbanner\.cinematic-reveal/);
   assert.match(app, /className="hero-proof"/);
-  assert.match(app, /Дэлхийн хаанаас ч/);
+  assert.match(app, /className="trust-strip"/);
+  assert.match(app, /className="faq-section"/);
+  assert.match(css, /\.trust-strip/);
+  assert.match(css, /\.faq-section/);
+  assert.match(app, /Алсын зайны IT тусламж/);
 });
