@@ -38,7 +38,7 @@ test('homepage receives a distinct premium visual system and service proof point
   assert.match(app, /className="faq-section"/);
   assert.match(css, /\.trust-strip/);
   assert.match(css, /\.faq-section/);
-  assert.match(app, /Алсын зайны IT тусламж/);
+  assert.match(app, /ШУУД ЗАХИАЛГА/);
 });
 
 
