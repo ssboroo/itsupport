@@ -40,3 +40,16 @@ test('homepage receives a distinct premium visual system and service proof point
   assert.match(css, /\.faq-section/);
   assert.match(app, /Алсын зайны IT тусламж/);
 });
+
+
+test('full responsive redesign is loaded globally and styles every key customer journey', async () => {
+  const design = await readFile(new URL('../app/redesign.css', import.meta.url), 'utf8');
+  const globalStyles = await readFile(new URL('../app/globals.css', import.meta.url), 'utf8');
+  assert.match(globalStyles, /@import '\.\/redesign\.css'/);
+  for (const selector of ['.hero.cinematic-reveal', '.trust-strip', '.business-banner', '.cards', '.how.cinematic-reveal', '.contactbanner.cinematic-reveal', '.prepare.cinematic-reveal', '.faq-section', '.bookgrid', '.formcard', '.seo-page']) {
+    assert.ok(design.includes(selector), `Missing redesign selector: ${selector}`);
+  }
+  assert.match(design, /@media\(max-width:800px\)/);
+  assert.match(design, /prefers-reduced-motion:reduce/);
+  assert.match(design, /:focus-visible/);
+});
