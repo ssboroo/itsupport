@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 export const SITE_URL = 'https://it.rainy.studio';
-export const SITE_TITLE = 'IT Тусламж by RAINY | Компьютер, программ, IT үйлчилгээ';
-export const SITE_DESCRIPTION = 'IT Тусламж by RAINY — компьютерийн алдаа засвар, программ суулгалт, Windows тохиргоо, вирусийн хамгаалалт болон байгууллагын IT үйлчилгээ. Монгол хэлээр онлайнаар захиалаарай.';
+export const SITE_TITLE = 'RAINY IT Тусламж | Компьютер, кибер аюулгүй байдал, IT үйлчилгээ';
+export const SITE_DESCRIPTION = 'RAINY IT Тусламж — компьютер, Mac, сүлжээ, кибер аюулгүй байдал, программ, өгөгдөл сэргээх болон байгууллагын IT үйлчилгээ. Монгол хэлээр хүсэлтээ шууд илгээгээрэй.';
 export function pageMetadata(title: string, description: string, path: string): Metadata {
   const url = SITE_URL + path;
   return { title: { absolute: title }, description, alternates: { canonical: url },
