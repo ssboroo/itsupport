@@ -1,4 +1,4 @@
-/* RAINY IT — cinematic scrollytelling layer.
+/* IT Тусламж by RAINY — cinematic scrollytelling layer.
    Progressive enhancement only: the existing content and booking flow remain usable
    when scroll-driven animations are unsupported or reduced motion is requested. */
 
@@ -671,3 +671,17 @@ footer .brand { color: #17365e; }
   .hero .support247,
   .hero .desk-service-icon { animation: none !important; }
 }
+
+
+/* Brand refinement: clear trust signals and readable FAQ rhythm. */
+.trust-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:22px 0 48px}
+.trust-strip>div{display:flex;align-items:center;gap:13px;min-width:0;padding:18px 20px;border:1px solid #dce9f8;border-radius:16px;background:linear-gradient(145deg,#fff,#f6faff);box-shadow:0 12px 32px #174d8510}
+.trust-icon{display:grid;width:42px;height:42px;flex:0 0 42px;place-items:center;border-radius:13px;color:#126be2;background:#e8f2ff}
+.trust-strip p{margin:0;min-width:0}.trust-strip b,.trust-strip small{display:block}.trust-strip b{color:#15366c;font-size:12px}.trust-strip small{margin-top:5px;color:#6f83a0;font-size:10px;line-height:1.5}
+.faq-section{margin:74px 0 80px;padding:clamp(24px,4vw,48px);border:1px solid #dce9f8;border-radius:26px;background:linear-gradient(145deg,#f8fbff,#edf5ff)}
+.faq-heading{margin-bottom:22px}.faq-heading h2{margin:12px 0 8px;color:#142e55;font-size:clamp(25px,3vw,34px);letter-spacing:-.04em}.faq-heading p{margin:0;color:#6e8098;font-size:13px}
+.faq-list{display:grid;gap:10px;max-width:900px}.faq-list details{padding:18px 20px;border:1px solid #dce8f5;border-radius:14px;background:#ffffffd9}
+.faq-list summary{cursor:pointer;color:#19385f;font-size:13px;font-weight:750;list-style:none}.faq-list summary::-webkit-details-marker{display:none}.faq-list summary::after{content:'+';float:right;color:#126be2;font-size:18px;line-height:1}.faq-list details[open] summary::after{content:'−'}
+.faq-list details p{max-width:760px;margin:13px 0 0;color:#647791;font-size:12px;line-height:1.8}
+header .brand b small,footer .brand b small{display:block;margin-top:2px;color:#72839a;font-size:9px;font-weight:700;letter-spacing:1.5px;line-height:1.2}
+@media(max-width:760px){.trust-strip{grid-template-columns:1fr;gap:9px;margin:12px 16px 34px}.trust-strip>div{padding:14px 16px}.faq-section{margin:46px 16px 56px;padding:22px 17px;border-radius:20px}.faq-list details{padding:16px}}
