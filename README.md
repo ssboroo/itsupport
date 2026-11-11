@@ -1,6 +1,12 @@
-# IT ТУСЛАМЖ — RAINY
+# IT Тусламж by RAINY
 
-Монгол хэлтэй компьютерийн зайны үйлчилгээний захиалгын сайт. Responsive blue/white UI, 8 service categories, AnyDesk/UltraViewer download and setup guides, Telegram notifications, Messenger and Viber contact links.
+Монгол хэлтэй IT тусламж, компьютерийн үйлчилгээний захиалгын сайт. Алсын зайны тусламж, программ суулгалт, Windows болон компьютерийн алдаа засвар, тохиргоо, байгууллагын IT үйлчилгээ. Responsive blue/white UI, 8 service categories, AnyDesk/UltraViewer download and setup guides, Telegram notifications, Messenger and Viber contact links.
+
+## Brand
+
+- Public brand: **IT Тусламж by RAINY**
+- Website: https://it.rainy.studio
+- Primary language: Mongolian
 
 ## Stack
 
