@@ -1,6 +1,6 @@
 # IT Тусламж by RAINY
 
-Монгол хэлтэй IT тусламж, компьютерийн үйлчилгээний захиалгын сайт. Алсын зайны тусламж, программ суулгалт, Windows болон компьютерийн алдаа засвар, тохиргоо, байгууллагын IT үйлчилгээ. Responsive blue/white UI, 8 service categories, AnyDesk/UltraViewer download and setup guides, Telegram notifications, Messenger and Viber contact links.
+Монгол хэлтэй IT тусламж, компьютерийн үйлчилгээний захиалгын сайт. Алсын зайны тусламж, программ суулгалт, Windows болон компьютерийн алдаа засвар, тохиргоо, байгууллагын IT үйлчилгээ. Responsive blue/white UI, 24 IT service categories, detailed service pages, AnyDesk/UltraViewer download and setup guides, structured Telegram order notifications, Messenger and Viber contact links.
 
 ## Brand
 
@@ -21,7 +21,7 @@ Use Node.js 22.13+ and pnpm. Run `pnpm install` then `pnpm dev`. Build with `pnp
 Set these values in the hosting service's secret/environment configuration, never in browser code or Git:
 
 - `ADMIN_EMAIL`: authenticated ChatGPT email permitted to access `/admin` and order management API. Until configured, admin access is denied.
-- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`: optional new-order notifications. Never commit the token.
+- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`: send each new individual or business order to the configured Telegram chat, including order ID, service, phone, requested time, connection method, request details and admin link. Never commit the token.
 - `TELEGRAM_USERNAME`: optional public bot/contact username, without `@`.
 - `FACEBOOK_PAGE_ID`: public numeric Page ID for the Messenger button.
 - `VIBER_CHAT_URL`: official Viber Business chat link or bot deeplink. Until configured, the button offers website booking instead.
